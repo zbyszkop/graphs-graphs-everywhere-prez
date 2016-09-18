@@ -31,9 +31,10 @@ public class Feeder {
 
     public void feed() throws Exception {
 //        List<SolrInputDocument> solrDocuments = Lists.newArrayList();
-        List<SolrInputDocument> solrDocuments = getSolrDocuments();
 
-        SolrClient solr = new CloudSolrClient.Builder().withZkHost(zkHost).build();
+        CloudSolrClient solr = new CloudSolrClient.Builder().withZkHost(zkHost).build();
+        solr.setDefaultCollection("emails");
+        List<SolrInputDocument> solrDocuments = getSolrDocuments();
         solr.add(solrDocuments);
 
         solr.commit();
@@ -45,7 +46,7 @@ public class Feeder {
         Path path = Paths.get(emailDir);
         List<Path> emailFiles = Files.list(path).collect(Collectors.toList());
 
-        List<Email> collectedEmails = emailFiles.stream().map(emailFile ->
+        List<Email> collectedEmails = emailFiles.stream().limit(100).map(emailFile ->
                 Try.of(() -> {
                             String fromLine = getLine(emailFile, "From: ");
                             List<String> to = getEmails(emailFile, "To: ");
