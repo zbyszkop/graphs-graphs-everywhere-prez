@@ -5,7 +5,6 @@ import javaslang.collection.Stream;
 import javaslang.control.Option;
 import javaslang.control.Try;
 import org.apache.solr.common.SolrInputDocument;
-import org.apache.solr.common.SolrInputField;
 
 import java.io.IOException;
 import java.nio.charset.Charset;
@@ -13,9 +12,7 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.Arrays;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
 import java.util.stream.Collectors;
 
 public class Feeder {
