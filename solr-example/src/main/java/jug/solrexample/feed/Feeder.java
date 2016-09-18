@@ -4,6 +4,8 @@ package jug.solrexample.feed;
 import javaslang.collection.Stream;
 import javaslang.control.Option;
 import javaslang.control.Try;
+import org.apache.solr.client.solrj.SolrClient;
+import org.apache.solr.client.solrj.impl.CloudSolrClient;
 import org.apache.solr.common.SolrInputDocument;
 
 import java.io.IOException;
@@ -16,7 +18,29 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 public class Feeder {
+    private String zkHost;
+
     public static void main(String[] args) throws Exception {
+        new Feeder("localhost:9983").feed() ;
+
+    }
+
+    public Feeder(String zkHost) {
+        this.zkHost = zkHost;
+    }
+
+    public void feed() throws Exception {
+//        List<SolrInputDocument> solrDocuments = Lists.newArrayList();
+        List<SolrInputDocument> solrDocuments = getSolrDocuments();
+
+        SolrClient solr = new CloudSolrClient.Builder().withZkHost(zkHost).build();
+        solr.add(solrDocuments);
+
+        solr.commit();
+
+    }
+
+    private List<SolrInputDocument> getSolrDocuments() throws IOException {
         String emailDir = Thread.currentThread().getContextClassLoader().getResource("easy_ham").getFile();
         Path path = Paths.get(emailDir);
         List<Path> emailFiles = Files.list(path).collect(Collectors.toList());
@@ -26,7 +50,7 @@ public class Feeder {
                             String fromLine = getLine(emailFile, "From: ");
                             List<String> to = getEmails(emailFile, "To: ");
                             List<String> cc = getEmails(emailFile, "Cc: ");
-                            List<String> bcc = getEmails(emailFile, "Bcc: ");
+                            List<String> bcc = getEmails(emailFile, "Bcc: "); //TODO: add Date
                             String subject = getSubject(emailFile);
                             String msg = extractMessage(emailFile);
 
@@ -38,8 +62,9 @@ public class Feeder {
             .map(Try::get)
             .collect(Collectors.toList());
 
-        collectedEmails.stream().map(Feeder::mapToSolrDocument);
-
+        return collectedEmails.stream()
+                .map(Feeder::mapToSolrDocument)
+                .collect(Collectors.toList());
     }
 
     private static SolrInputDocument mapToSolrDocument(Email email) {
