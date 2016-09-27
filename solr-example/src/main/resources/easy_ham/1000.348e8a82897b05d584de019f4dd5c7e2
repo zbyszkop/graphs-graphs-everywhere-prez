@@ -74,7 +74,7 @@ programmer had a clue at all... Java does remove the clue requirement tho,
 just adds a huge testing requirement, QA guys aren't as cheap ;)
 
 > 5.  Makes no sense for a scientific or a business project to depend on a
-> person... Java, IMHO, reduces the dependence of these entities on the
+> user... Java, IMHO, reduces the dependence of these entities on the
 > individual developer as it is much easier to reverse engineer Java as it is
 > to reverse engineer C (large applications).
 

@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset='utf-8'></meta>
+        <title>Tutorial 3: Twitter</title>
+        <link rel="stylesheet" type="text/css" href="css/main.css">
+    </head>
+
+    <body>
+        <div id="query-row">
+
+                <textarea id="expr" rows="5" cols="60">
+                        gatherNodes(song_likes,
+                                gatherNodes(song_likes,
+                                       gatherNodes(song_likes, walk="roger.clarke@example.com->email",gather="title_artist", trackTraversal="true", scatter="branches, leaves"),
+                                walk="node->title_artist", gather="email", trackTraversal="true", scatter="branches, leaves"
+                                ),
+                           walk="node->email", gather="title_artist", trackTraversal="true", scatter="branches, leaves", count(*)
+                            )
+                </textarea>
+                <button id="new-graph-button" >new graph</button>
+        </div>
+        <script src='build/main.bundle.js'></script>
+        <div id='cy'></div>
+    </body>
+</html>

@@ -84,7 +84,7 @@ procmailrc file (/home/$user/.procmailrc) looks like this:
   * ^From: .*spermfun.com
   /dev/null
 
-Now I've got a person who needs a copy of her inbound emails sent to another 
+Now I've got a user who needs a copy of her inbound emails sent to another
 email address (outside the company), so I've got this recipe in her 
 /home/$user/.procmailrc file:
 :0 c

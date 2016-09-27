@@ -33,7 +33,7 @@ I'm currently writing a new one based on classifier (and timtest's
 booty-kicking tokenizer).  I'll probably have something soon, like maybe
 half an hour, and no, it's not too hard.  The hard part is storing the
 data somewhere.  I don't want to use ZODB, as I'd like something a
-person can just drop in with a default Python install.  So anydbm is
+user can just drop in with a default Python install.  So anydbm is
 looking like my best option.
 
 I already have a setup like this using Xavier Leroy's SpamOracle, which

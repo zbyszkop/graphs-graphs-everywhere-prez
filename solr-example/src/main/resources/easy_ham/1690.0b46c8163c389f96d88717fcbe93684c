@@ -35,7 +35,7 @@ X-Spam-Level:
 
 > Before or after I whitelisted all the legit mailing lists that Razor is
 > tagging?  I had one false positive in the last four days.  Razor tagged some
-> guys person-to-person message because he used an ostrich-in-your-face jpeg
+> guys user-to-user message because he used an ostrich-in-your-face jpeg
 > that is probably pretty popular on the net, and -lm 4 means any single
 > attachment in a message that is razored, razors the whole message, if I
 > understand it correctly.

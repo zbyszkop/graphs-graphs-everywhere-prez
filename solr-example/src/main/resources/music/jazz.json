@@ -1,0 +1,572 @@
+[
+  {
+    "artist": "Miles Davis",
+    "title": "Kind of Blue",
+    "genre": "jazz",
+    "chartPosition": 1
+  },
+  {
+    "artist": "John Coltrane",
+    "title": "Giant Steps",
+    "genre": "jazz",
+    "chartPosition": 2
+  },
+  {
+    "artist": "Miles Davis",
+    "title": "Birth of the Cool",
+    "genre": "jazz",
+    "chartPosition": 3
+  },
+  {
+    "artist": "Charles Mingus",
+    "title": "Ah Um",
+    "genre": "jazz",
+    "chartPosition": 4
+  },
+  {
+    "artist": "Oliver Nelson",
+    "title": "Blues and Abstract Truth",
+    "genre": "jazz",
+    "chartPosition": 5
+  },
+  {
+    "artist": "John Coltrane",
+    "title": "Love Supreme",
+    "genre": "jazz",
+    "chartPosition": 6
+  },
+  {
+    "artist": "Sonny Rollins",
+    "title": "Saxophone Colossus",
+    "genre": "jazz",
+    "chartPosition": 7
+  },
+  {
+    "artist": "Eric Dolphy",
+    "title": "Out to Lunch",
+    "genre": "jazz",
+    "chartPosition": 8
+  },
+  {
+    "artist": "Louis Armstrong",
+    "title": "Hot Fives and Sevens",
+    "genre": "jazz",
+    "chartPosition": 9
+  },
+  {
+    "artist": "Dave Brubeck",
+    "title": "Time Out",
+    "genre": "jazz",
+    "chartPosition": 10
+  },
+  {
+    "artist": "Miles Davis",
+    "title": "Sketches of Spain",
+    "genre": "jazz",
+    "chartPosition": 11
+  },
+  {
+    "artist": "Thelonious Monk",
+    "title": "Brilliant Corners",
+    "genre": "jazz",
+    "chartPosition": 12
+  },
+  {
+    "artist": "Wayne Shorter",
+    "title": "Speak No Evil",
+    "genre": "jazz",
+    "chartPosition": 13
+  },
+  {
+    "artist": "Henry Threadgill",
+    "title": "Too Much Sugar for a Dime",
+    "genre": "jazz",
+    "chartPosition": 14
+  },
+  {
+    "artist": "John Zorn",
+    "title": "Masada -Alef",
+    "genre": "jazz",
+    "chartPosition": 15
+  },
+  {
+    "artist": "Ornette Coleman",
+    "title": "Shape of Jazz To Come",
+    "genre": "jazz",
+    "chartPosition": 16
+  },
+  {
+    "artist": "Miles Davis",
+    "title": "Porgy And Bess",
+    "genre": "jazz",
+    "chartPosition": 17
+  },
+  {
+    "artist": "Dave Holland",
+    "title": "Conference of the Birds",
+    "genre": "jazz",
+    "chartPosition": 18
+  },
+  {
+    "artist": "Charles Mingus",
+    "title": "Black Saint \u0026 the Sinner Lady",
+    "genre": "jazz",
+    "chartPosition": 19
+  },
+  {
+    "artist": "Charles Mingus",
+    "title": "Live At Antibes",
+    "genre": "jazz",
+    "chartPosition": 20
+  },
+  {
+    "artist": "Thelonious Monk",
+    "title": "Monk\u0027s Music",
+    "genre": "jazz",
+    "chartPosition": 21
+  },
+  {
+    "artist": "Sonny Sharrock",
+    "title": "Ask the Ages",
+    "genre": "jazz",
+    "chartPosition": 22
+  },
+  {
+    "artist": "Cannonball Adderly",
+    "title": "Somethin\u0027 Else",
+    "genre": "jazz",
+    "chartPosition": 23
+  },
+  {
+    "artist": "Benny Carter",
+    "title": "Further Definitions",
+    "genre": "jazz",
+    "chartPosition": 24
+  },
+  {
+    "artist": "Ornette Coleman",
+    "title": "Change of The Century",
+    "genre": "jazz",
+    "chartPosition": 25
+  },
+  {
+    "artist": "John Coltrane",
+    "title": "Blue Trane",
+    "genre": "jazz",
+    "chartPosition": 26
+  },
+  {
+    "artist": "Duke Ellington",
+    "title": "The Far East Suite",
+    "genre": "jazz",
+    "chartPosition": 27
+  },
+  {
+    "artist": "Duke Ellington",
+    "title": "Blanton/Webster Band",
+    "genre": "jazz",
+    "chartPosition": 28
+  },
+  {
+    "artist": "Bill Evans",
+    "title": "Waltz for Debby",
+    "genre": "jazz",
+    "chartPosition": 29
+  },
+  {
+    "artist": "Gil Evans",
+    "title": "Out of the Cool",
+    "genre": "jazz",
+    "chartPosition": 30
+  },
+  {
+    "artist": "Dexter Gordon",
+    "title": "Our Man in Paris",
+    "genre": "jazz",
+    "chartPosition": 31
+  },
+  {
+    "artist": "Herbie Hancock",
+    "title": "Maiden Voyage",
+    "genre": "jazz",
+    "chartPosition": 32
+  },
+  {
+    "artist": "Joe Lovano",
+    "title": "From the Soul",
+    "genre": "jazz",
+    "chartPosition": 33
+  },
+  {
+    "artist": "Mahavishnu Orchestra",
+    "title": "The Inner Mounting Flame",
+    "genre": "jazz",
+    "chartPosition": 34
+  },
+  {
+    "artist": "David Murray",
+    "title": "Ming",
+    "genre": "jazz",
+    "chartPosition": 35
+  },
+  {
+    "artist": "Charlie Parker",
+    "title": "The Dial Sessions",
+    "genre": "jazz",
+    "chartPosition": 36
+  },
+  {
+    "artist": "Charlie Parker",
+    "title": "Massey Hall",
+    "genre": "jazz",
+    "chartPosition": 37
+  },
+  {
+    "artist": "Art Pepper",
+    "title": "Meets the Rhythm Section",
+    "genre": "jazz",
+    "chartPosition": 38
+  },
+  {
+    "artist": "World Saxophone Quartet",
+    "title": "Plays Duke Ellington",
+    "genre": "jazz",
+    "chartPosition": 39
+  },
+  {
+    "artist": "Count Basie",
+    "title": "Atomic Basie",
+    "genre": "jazz",
+    "chartPosition": 40
+  },
+  {
+    "artist": "Art Blakey",
+    "title": "Moanin\u0027",
+    "genre": "jazz",
+    "chartPosition": 41
+  },
+  {
+    "artist": "Don Byron",
+    "title": "Tuskegee Experiments",
+    "genre": "jazz",
+    "chartPosition": 42
+  },
+  {
+    "artist": "Ornette Coleman",
+    "title": "Dancing in Your Head",
+    "genre": "jazz",
+    "chartPosition": 43
+  },
+  {
+    "artist": "Miles Davis",
+    "title": "Miles Ahead",
+    "genre": "jazz",
+    "chartPosition": 44
+  },
+  {
+    "artist": "Miles Davis",
+    "title": "In a Silent Way",
+    "genre": "jazz",
+    "chartPosition": 45
+  },
+  {
+    "artist": "Miles Davis",
+    "title": "Nefertiti",
+    "genre": "jazz",
+    "chartPosition": 46
+  },
+  {
+    "artist": "Jack DeJohnette",
+    "title": "Album Album",
+    "genre": "jazz",
+    "chartPosition": 47
+  },
+  {
+    "artist": "Eric Dolphy",
+    "title": "Outward Bound",
+    "genre": "jazz",
+    "chartPosition": 48
+  },
+  {
+    "artist": "Eric Dolphy",
+    "title": "At the Five Spot , vol. 1",
+    "genre": "jazz",
+    "chartPosition": 49
+  },
+  {
+    "artist": "Stan Getz",
+    "title": "Getz/Gilberto",
+    "genre": "jazz",
+    "chartPosition": 50
+  },
+  {
+    "artist": "Stan Getz",
+    "title": "Jazz Samba",
+    "genre": "jazz",
+    "chartPosition": 51
+  },
+  {
+    "artist": "Charlie Haden",
+    "title": "Ballad of the Fallen",
+    "genre": "jazz",
+    "chartPosition": 52
+  },
+  {
+    "artist": "Charlie Haden",
+    "title": "Liberation Music Orchestra",
+    "genre": "jazz",
+    "chartPosition": 53
+  },
+  {
+    "artist": "Coleman Hawkins",
+    "title": "Body and Soul",
+    "genre": "jazz",
+    "chartPosition": 54
+  },
+  {
+    "artist": "Joe Henderson",
+    "title": "Inner Urge",
+    "genre": "jazz",
+    "chartPosition": 55
+  },
+  {
+    "artist": "Joe Lovano",
+    "title": "Rush Hour",
+    "genre": "jazz",
+    "chartPosition": 56
+  },
+  {
+    "artist": "John Mclaughlin",
+    "title": "Extrapolations",
+    "genre": "jazz",
+    "chartPosition": 57
+  },
+  {
+    "artist": "Charles Mingus",
+    "title": "Blues And Roots",
+    "genre": "jazz",
+    "chartPosition": 58
+  },
+  {
+    "artist": "Max Roach",
+    "title": "Freedom Now Suite",
+    "genre": "jazz",
+    "chartPosition": 59
+  },
+  {
+    "artist": "Horace Silver",
+    "title": "Song for my Father",
+    "genre": "jazz",
+    "chartPosition": 60
+  },
+  {
+    "artist": "Horace Silver",
+    "title": "Blowin\u0027 the Blues Away",
+    "genre": "jazz",
+    "chartPosition": 61
+  },
+  {
+    "artist": "Weather Report",
+    "title": "Heavy Weather",
+    "genre": "jazz",
+    "chartPosition": 62
+  },
+  {
+    "artist": "Weston, Randy",
+    "title": "Spirits of Our Ancestors",
+    "genre": "jazz",
+    "chartPosition": 63
+  },
+  {
+    "artist": "George Adams/Don Pullen",
+    "title": "Breakthrough",
+    "genre": "jazz",
+    "chartPosition": 64
+  },
+  {
+    "artist": "George Adams/Don Pullen",
+    "title": "Live at the Village Vanguard",
+    "genre": "jazz",
+    "chartPosition": 65
+  },
+  {
+    "artist": "Cannonball Adderley",
+    "title": "(Sextet) Live in New York",
+    "genre": "jazz",
+    "chartPosition": 66
+  },
+  {
+    "artist": "Louis Armstrong",
+    "title": "And Earl Hines",
+    "genre": "jazz",
+    "chartPosition": 67
+  },
+  {
+    "artist": "Art Ensemble of Chicago",
+    "title": "Nice Guys",
+    "genre": "jazz",
+    "chartPosition": 68
+  },
+  {
+    "artist": "Albert Ayler",
+    "title": "Live At Greenwhich Village",
+    "genre": "jazz",
+    "chartPosition": 69
+  },
+  {
+    "artist": "Count Basie",
+    "title": "The Compete Decca Recordings",
+    "genre": "jazz",
+    "chartPosition": 70
+  },
+  {
+    "artist": "Arthur Blythe",
+    "title": "Lenox Avenue Breakdown",
+    "genre": "jazz",
+    "chartPosition": 71
+  },
+  {
+    "artist": "Anthony Braxton",
+    "title": "New York Fall 1974",
+    "genre": "jazz",
+    "chartPosition": 72
+  },
+  {
+    "artist": "Don Cherry",
+    "title": "El Corazon (with Ed Blackwell)",
+    "genre": "jazz",
+    "chartPosition": 73
+  },
+  {
+    "artist": "Ornette Coleman",
+    "title": "Free Jazz",
+    "genre": "jazz",
+    "chartPosition": 74
+  },
+  {
+    "artist": "John Coltrane",
+    "title": "Afro Blue Impressions",
+    "genre": "jazz",
+    "chartPosition": 75
+  },
+  {
+    "artist": "John Coltrane",
+    "title": "My Favorite Things",
+    "genre": "jazz",
+    "chartPosition": 76
+  },
+  {
+    "artist": "John Coltrane",
+    "title": "Ole Coltrane",
+    "genre": "jazz",
+    "chartPosition": 77
+  },
+  {
+    "artist": "Miles Davis",
+    "title": "Miles Smiles",
+    "genre": "jazz",
+    "chartPosition": 78
+  },
+  {
+    "artist": "Miles Davis",
+    "title": "Walkin\u0027",
+    "genre": "jazz",
+    "chartPosition": 79
+  },
+  {
+    "artist": "Miles Davis",
+    "title": "Milestones",
+    "genre": "jazz",
+    "chartPosition": 80
+  },
+  {
+    "artist": "Miles Davis",
+    "title": "A Tribute to Jack Johnson",
+    "genre": "jazz",
+    "chartPosition": 81
+  },
+  {
+    "artist": "Duke Ellington",
+    "title": "Money Jungle",
+    "genre": "jazz",
+    "chartPosition": 82
+  },
+  {
+    "artist": "Don Ellis",
+    "title": "Electric Bath",
+    "genre": "jazz",
+    "chartPosition": 83
+  },
+  {
+    "artist": "Bill Evans",
+    "title": "Portrait in Jazz",
+    "genre": "jazz",
+    "chartPosition": 84
+  },
+  {
+    "artist": "Errol Garner",
+    "title": "Concert by the Sea",
+    "genre": "jazz",
+    "chartPosition": 85
+  },
+  {
+    "artist": "Stan Getz",
+    "title": "Focus",
+    "genre": "jazz",
+    "chartPosition": 86
+  },
+  {
+    "artist": "Jimmy Giuffre",
+    "title": "The Jimmy Giuffre 3",
+    "genre": "jazz",
+    "chartPosition": 87
+  },
+  {
+    "artist": "Benny Goodman",
+    "title": "Carnegie Hall Concert",
+    "genre": "jazz",
+    "chartPosition": 88
+  },
+  {
+    "artist": "Grant Green",
+    "title": "Feelin\u0027 the Spirit",
+    "genre": "jazz",
+    "chartPosition": 89
+  },
+  {
+    "artist": "John Handy",
+    "title": "Live at the Monterey Jazz Festival 1965",
+    "genre": "jazz",
+    "chartPosition": 90
+  },
+  {
+    "artist": "Joe Henderson",
+    "title": "So Near, So Far",
+    "genre": "jazz",
+    "chartPosition": 91
+  },
+  {
+    "artist": "Woody Herman",
+    "title": "The Thundering Herds",
+    "genre": "jazz",
+    "chartPosition": 92
+  },
+  {
+    "artist": "Andrew Hill",
+    "title": "Point of Departure",
+    "genre": "jazz",
+    "chartPosition": 93
+  },
+  {
+    "artist": "Dave Holland",
+    "title": "Razors Edge",
+    "genre": "jazz",
+    "chartPosition": 94
+  },
+  {
+    "artist": "Bobby Hutcherson",
+    "title": "Dialogue",
+    "genre": "jazz",
+    "chartPosition": 95
+  }
+]

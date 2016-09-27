@@ -1,0 +1,602 @@
+[
+  {
+    "artist": "Sammy Hagar",
+    "title": "I Can’t Drive 55",
+    "genre": "hard rock",
+    "chartPosition": 100
+  },
+  {
+    "artist": "Grand Funk Railroad",
+    "title": "We’re An American Bandv",
+    "genre": "hard rock",
+    "chartPosition": 99
+  },
+  {
+    "artist": "Buckcherry",
+    "title": "Lit Up",
+    "genre": "hard rock",
+    "chartPosition": 98
+  },
+  {
+    "artist": "The Edgar Winter Group",
+    "title": "Frankenstein",
+    "genre": "hard rock",
+    "chartPosition": 97
+  },
+  {
+    "artist": "Kansas",
+    "title": "Carry On Wayward Son",
+    "genre": "hard rock",
+    "chartPosition": 96
+  },
+  {
+    "artist": "Creed",
+    "title": "Higher",
+    "genre": "hard rock",
+    "chartPosition": 95
+  },
+  {
+    "artist": "The Darkness",
+    "title": "I Believe In A Thing Called Love",
+    "genre": "hard rock",
+    "chartPosition": 94
+  },
+  {
+    "artist": "Autograph",
+    "title": "Turn Up The Radio",
+    "genre": "hard rock",
+    "chartPosition": 93
+  },
+  {
+    "artist": "Night Ranger",
+    "title": "Don’t Tell Me You Love Me",
+    "genre": "hard rock",
+    "chartPosition": 92
+  },
+  {
+    "artist": "Smashing Pumpkins",
+    "title": "Bullet With Butterfly Wings",
+    "genre": "hard rock",
+    "chartPosition": 91
+  },
+  {
+    "artist": "Jethro Tull",
+    "title": "Aqualung",
+    "genre": "hard rock",
+    "chartPosition": 90
+  },
+  {
+    "artist": "Andrew W.K.",
+    "title": "Party Hard",
+    "genre": "hard rock",
+    "chartPosition": 89
+  },
+  {
+    "artist": "Alice In Chains",
+    "title": "Would?",
+    "genre": "hard rock",
+    "chartPosition": 88
+  },
+  {
+    "artist": "Winger",
+    "title": "Seventeen",
+    "genre": "hard rock",
+    "chartPosition": 87
+  },
+  {
+    "artist": "Marilyn Manson",
+    "title": "The Beautiful People",
+    "genre": "hard rock",
+    "chartPosition": 86
+  },
+  {
+    "artist": "Velvet Revolver",
+    "title": "Slither",
+    "genre": "hard rock",
+    "chartPosition": 85
+  },
+  {
+    "artist": "W.A.S.P.",
+    "title": "I Wanna Be Somebody",
+    "genre": "hard rock",
+    "chartPosition": 84
+  },
+  {
+    "artist": "Evanescence",
+    "title": "Bring Me To Life",
+    "genre": "hard rock",
+    "chartPosition": 83
+  },
+  {
+    "artist": "Rainbow",
+    "title": "Since You Been Gone",
+    "genre": "hard rock",
+    "chartPosition": 82
+  },
+  {
+    "artist": "Black Sabbath",
+    "title": "Heaven And Hell",
+    "genre": "hard rock",
+    "chartPosition": 81
+  },
+  {
+    "artist": "Journey",
+    "title": "Any Way You Want It",
+    "genre": "hard rock",
+    "chartPosition": 80
+  },
+  {
+    "artist": "Billy Idol",
+    "title": "Rebel Yell",
+    "genre": "hard rock",
+    "chartPosition": 79
+  },
+  {
+    "artist": "Bad Company",
+    "title": "Feel Like Making Love",
+    "genre": "hard rock",
+    "chartPosition": 78
+  },
+  {
+    "artist": "Soundgarden",
+    "title": "Black Hole Sun",
+    "genre": "hard rock",
+    "chartPosition": 77
+  },
+  {
+    "artist": "Lita Ford",
+    "title": "Kiss Me Deadly",
+    "genre": "hard rock",
+    "chartPosition": 76
+  },
+  {
+    "artist": "The White Stripes",
+    "title": "Seven Nation Army",
+    "genre": "hard rock",
+    "chartPosition": 75
+  },
+  {
+    "artist": "The Cult",
+    "title": "Love Removal Machine",
+    "genre": "hard rock",
+    "chartPosition": 74
+  },
+  {
+    "artist": "Thin Lizzy",
+    "title": "Jailbreak",
+    "genre": "hard rock",
+    "chartPosition": 73
+  },
+  {
+    "artist": "Pat Benetar",
+    "title": "Heartbreaker",
+    "genre": "hard rock",
+    "chartPosition": 72
+  },
+  {
+    "artist": "Jane’s Addiction",
+    "title": "Mountain Song",
+    "genre": "hard rock",
+    "chartPosition": 71
+  },
+  {
+    "artist": "Foreigner",
+    "title": "Hot Blooded",
+    "genre": "hard rock",
+    "chartPosition": 70
+  },
+  {
+    "artist": "Living Colour",
+    "title": "Cult Of Personality",
+    "genre": "hard rock",
+    "chartPosition": 69
+  },
+  {
+    "artist": "White Zombie",
+    "title": "More Human Than Human",
+    "genre": "hard rock",
+    "chartPosition": 68
+  },
+  {
+    "artist": "ZZ Top",
+    "title": "Tush",
+    "genre": "hard rock",
+    "chartPosition": 67
+  },
+  {
+    "artist": "Europe",
+    "title": "The Final Countdown",
+    "genre": "hard rock",
+    "chartPosition": 66
+  },
+  {
+    "artist": "MC5",
+    "title": "Kick Out the Jams",
+    "genre": "hard rock",
+    "chartPosition": 65
+  },
+  {
+    "artist": "Rollins Band",
+    "title": "Liar",
+    "genre": "hard rock",
+    "chartPosition": 64
+  },
+  {
+    "artist": "Survivor",
+    "title": "Eye Of The Tiger",
+    "genre": "hard rock",
+    "chartPosition": 63
+  },
+  {
+    "artist": "Dokken",
+    "title": "Breaking The Chains",
+    "genre": "hard rock",
+    "chartPosition": 62
+  },
+  {
+    "artist": "Ratt",
+    "title": "Round And Round",
+    "genre": "hard rock",
+    "chartPosition": 61
+  },
+  {
+    "artist": "Skid Row",
+    "title": "18 And Life",
+    "genre": "hard rock",
+    "chartPosition": 60
+  },
+  {
+    "artist": "Billy Squier",
+    "title": "The Stroke",
+    "genre": "hard rock",
+    "chartPosition": 59
+  },
+  {
+    "artist": "Stone Temple Pilots",
+    "title": "Interstate Love Song",
+    "genre": "hard rock",
+    "chartPosition": 58
+  },
+  {
+    "artist": "The Kinks",
+    "title": "You Really Got Me",
+    "genre": "hard rock",
+    "chartPosition": 57
+  },
+  {
+    "artist": "Warrant",
+    "title": "Cherry Pie",
+    "genre": "hard rock",
+    "chartPosition": 56
+  },
+  {
+    "artist": "Blue Oyster Cult",
+    "title": "Don’t Fear The Reaper",
+    "genre": "hard rock",
+    "chartPosition": 55
+  },
+  {
+    "artist": "Faith No More",
+    "title": "Epic",
+    "genre": "hard rock",
+    "chartPosition": 54
+  },
+  {
+    "artist": "Steppenwolf",
+    "title": "Born To Be Wild",
+    "genre": "hard rock",
+    "chartPosition": 53
+  },
+  {
+    "artist": "The Runaways",
+    "title": "Cherry Bomb",
+    "genre": "hard rock",
+    "chartPosition": 52
+  },
+  {
+    "artist": "Megadeth",
+    "title": "Peace Sells",
+    "genre": "hard rock",
+    "chartPosition": 51
+  },
+  {
+    "artist": "Red Hot Chili Peppers",
+    "title": "Give It Away",
+    "genre": "hard rock",
+    "chartPosition": 50
+  },
+  {
+    "artist": "The Stooges",
+    "title": "Search And Destroy",
+    "genre": "hard rock",
+    "chartPosition": 49
+  },
+  {
+    "artist": "Korn",
+    "title": "Freak On A Leash",
+    "genre": "hard rock",
+    "chartPosition": 48
+  },
+  {
+    "artist": "Kid Rock",
+    "title": "Bawitdaba",
+    "genre": "hard rock",
+    "chartPosition": 47
+  },
+  {
+    "artist": "Anthrax",
+    "title": "Madhouse",
+    "genre": "hard rock",
+    "chartPosition": 46
+  },
+  {
+    "artist": "Foghat",
+    "title": "Slow Ride",
+    "genre": "hard rock",
+    "chartPosition": 45
+  },
+  {
+    "artist": "Cream",
+    "title": "Sunshine Of Your Love",
+    "genre": "hard rock",
+    "chartPosition": 44
+  },
+  {
+    "artist": "Dio",
+    "title": "Holy Diver",
+    "genre": "hard rock",
+    "chartPosition": 43
+  },
+  {
+    "artist": "The Clash",
+    "title": "Should I Stay Or Should I Go",
+    "genre": "hard rock",
+    "chartPosition": 42
+  },
+  {
+    "artist": "Quiet Riot",
+    "title": "Cum On Feel The Noize",
+    "genre": "hard rock",
+    "chartPosition": 41
+  },
+  {
+    "artist": "Poison",
+    "title": "Talk Dirty To Me",
+    "genre": "hard rock",
+    "chartPosition": 40
+  },
+  {
+    "artist": "Boston",
+    "title": "More Than A Feeling",
+    "genre": "hard rock",
+    "chartPosition": 39
+  },
+  {
+    "artist": "Queen",
+    "title": "Stone Cold Crazy",
+    "genre": "hard rock",
+    "chartPosition": 38
+  },
+  {
+    "artist": "The Who",
+    "title": "My Generation",
+    "genre": "hard rock",
+    "chartPosition": 37
+  },
+  {
+    "artist": "Van Halen",
+    "title": "Hot For Teacher",
+    "genre": "hard rock",
+    "chartPosition": 36
+  },
+  {
+    "artist": "Alice Cooper",
+    "title": "School’s Out",
+    "genre": "hard rock",
+    "chartPosition": 33
+  },
+  {
+    "artist": "Heart",
+    "title": "Barracuda",
+    "genre": "hard rock",
+    "chartPosition": 34
+  },
+  {
+    "artist": "Green Day",
+    "title": "Basket Case",
+    "genre": "hard rock",
+    "chartPosition": 33
+  },
+  {
+    "artist": "Ted Nugent",
+    "title": "Cat Scratch Fever",
+    "genre": "hard rock",
+    "chartPosition": 32
+  },
+  {
+    "artist": "AC/DC",
+    "title": "Dirty Deeds Done Dirt Cheap",
+    "genre": "hard rock",
+    "chartPosition": 31
+  },
+  {
+    "artist": "Pearl Jam",
+    "title": "Even Flow",
+    "genre": "hard rock",
+    "chartPosition": 30
+  },
+  {
+    "artist": "Joan Jett",
+    "title": "Bad Reputation",
+    "genre": "hard rock",
+    "chartPosition": 29
+  },
+  {
+    "artist": "Foo Fighters",
+    "title": "Everlong",
+    "genre": "hard rock",
+    "chartPosition": 28
+  },
+  {
+    "artist": "Whitesnake",
+    "title": "Still Of The Night",
+    "genre": "hard rock",
+    "chartPosition": 27
+  },
+  {
+    "artist": "Lynyrd Skynyrd",
+    "title": "Free Bird",
+    "genre": "hard rock",
+    "chartPosition": 26
+  },
+  {
+    "artist": "The Ramones",
+    "title": "Blitzkrieg Bop",
+    "genre": "hard rock",
+    "chartPosition": 25
+  },
+  {
+    "artist": "Iron Butterfly",
+    "title": "In-A-Gadda-Da-Vida",
+    "genre": "hard rock",
+    "chartPosition": 24
+  },
+  {
+    "artist": "Ozzy Osbourne",
+    "title": "Crazy Train",
+    "genre": "hard rock",
+    "chartPosition": 23
+  },
+  {
+    "artist": "Jimi Hendrix Experience",
+    "title": "Hey Joe",
+    "genre": "hard rock",
+    "chartPosition": 22
+  },
+  {
+    "artist": "Led Zeppelin",
+    "title": "Kashmir",
+    "genre": "hard rock",
+    "chartPosition": 21
+  },
+  {
+    "artist": "Bon Jovi",
+    "title": "You Give Love A Bad Name",
+    "genre": "hard rock",
+    "chartPosition": 20
+  },
+  {
+    "artist": "Rush",
+    "title": "Tom Sawyer",
+    "genre": "hard rock",
+    "chartPosition": 19
+  },
+  {
+    "artist": "Scorpions",
+    "title": "Rock You Like A Hurricane",
+    "genre": "hard rock",
+    "chartPosition": 18
+  },
+  {
+    "artist": "Twisted Sister",
+    "title": "I Wanna Rock",
+    "genre": "hard rock",
+    "chartPosition": 17
+  },
+  {
+    "artist": "Kiss",
+    "title": "Rock And Roll All Nite",
+    "genre": "hard rock",
+    "chartPosition": 16
+  },
+  {
+    "artist": "Motley Crue",
+    "title": "Dr. Feelgood",
+    "genre": "hard rock",
+    "chartPosition": 15
+  },
+  {
+    "artist": "Iron Maiden",
+    "title": "Run To The Hills",
+    "genre": "hard rock",
+    "chartPosition": 14
+  },
+  {
+    "artist": "Def Leppard",
+    "title": "Photograph",
+    "genre": "hard rock",
+    "chartPosition": 13
+  },
+  {
+    "artist": "Judas Priest",
+    "title": "Breaking The Law",
+    "genre": "hard rock",
+    "chartPosition": 12
+  },
+  {
+    "artist": "Deep Purple",
+    "title": "Smoke On The Water",
+    "genre": "hard rock",
+    "chartPosition": 11
+  },
+  {
+    "artist": "Motorhead",
+    "title": "Ace Of Spades",
+    "genre": "hard rock",
+    "chartPosition": 10
+  },
+  {
+    "artist": "Van Halen",
+    "title": "Runnin With The Devil",
+    "genre": "hard rock",
+    "chartPosition": 9
+  },
+  {
+    "artist": "Aerosmith",
+    "title": "Walk This Way",
+    "genre": "hard rock",
+    "chartPosition": 8
+  },
+  {
+    "artist": "Nirvana",
+    "title": "Smells Like Teen Spirit",
+    "genre": "hard rock",
+    "chartPosition": 7
+  },
+  {
+    "artist": "The Who",
+    "title": "Won’t Get Fooled Again",
+    "genre": "hard rock",
+    "chartPosition": 6
+  },
+  {
+    "artist": "Metallica",
+    "title": "Enter Sandman",
+    "genre": "hard rock",
+    "chartPosition": 5
+  },
+  {
+    "artist": "Black Sabbath",
+    "title": "Paranoid",
+    "genre": "hard rock",
+    "chartPosition": 4
+  },
+  {
+    "artist": "Led Zeppelin",
+    "title": "Whole Lotta Love",
+    "genre": "hard rock",
+    "chartPosition": 3
+  },
+  {
+    "artist": "AC/DC",
+    "title": "Back In Black",
+    "genre": "hard rock",
+    "chartPosition": 2
+  },
+  {
+    "artist": "Guns N’ Roses",
+    "title": "Welcome To The Jungle",
+    "genre": "hard rock",
+    "chartPosition": 1
+  }
+]

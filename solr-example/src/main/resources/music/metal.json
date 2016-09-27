@@ -1,0 +1,602 @@
+[
+  {
+    "artist": "Iron Maiden",
+    "title": "Hallowed Be Thy Name",
+    "genre": "metal",
+    "chartPosition": 1
+  },
+  {
+    "artist": "Black Sabbath",
+    "title": "War Pigs",
+    "genre": "metal",
+    "chartPosition": 2
+  },
+  {
+    "artist": "Metallica",
+    "title": "Master of Puppets",
+    "genre": "metal",
+    "chartPosition": 3
+  },
+  {
+    "artist": "Black Sabbath",
+    "title": "Paranoid",
+    "genre": "metal",
+    "chartPosition": 4
+  },
+  {
+    "artist": "Slayer",
+    "title": "Angel of Death",
+    "genre": "metal",
+    "chartPosition": 5
+  },
+  {
+    "artist": "Motorhead",
+    "title": "Ace of Spades",
+    "genre": "metal",
+    "chartPosition": 6
+  },
+  {
+    "artist": "Black Sabbath",
+    "title": "Black Sabbath",
+    "genre": "metal",
+    "chartPosition": 7
+  },
+  {
+    "artist": "Judas Priest",
+    "title": "Victim of Changes",
+    "genre": "metal",
+    "chartPosition": 8
+  },
+  {
+    "artist": "Iron Maiden",
+    "title": "The Number of the Beast",
+    "genre": "metal",
+    "chartPosition": 9
+  },
+  {
+    "artist": "Black Sabbath",
+    "title": "Iron Man",
+    "genre": "metal",
+    "chartPosition": 10
+  },
+  {
+    "artist": "Slayer",
+    "title": "Raining Blood",
+    "genre": "metal",
+    "chartPosition": 11
+  },
+  {
+    "artist": "Rainbow",
+    "title": "Stargazer",
+    "genre": "metal",
+    "chartPosition": 12
+  },
+  {
+    "artist": "Judas Priest",
+    "title": "Beyond the Realms of Death",
+    "genre": "metal",
+    "chartPosition": 13
+  },
+  {
+    "artist": "Metallica",
+    "title": "One",
+    "genre": "metal",
+    "chartPosition": 14
+  },
+  {
+    "artist": "Megadeth",
+    "title": "Holy Wars... The Punishment Due",
+    "genre": "metal",
+    "chartPosition": 15
+  },
+  {
+    "artist": "Iron Maiden",
+    "title": "The Trooper",
+    "genre": "metal",
+    "chartPosition": 16
+  },
+  {
+    "artist": "Ozzy Osbourne",
+    "title": "Crazy Train",
+    "genre": "metal",
+    "chartPosition": 17
+  },
+  {
+    "artist": "Black Sabbath",
+    "title": "Heaven and Hell",
+    "genre": "metal",
+    "chartPosition": 18
+  },
+  {
+    "artist": "Iron Maiden",
+    "title": "Run to the Hills",
+    "genre": "metal",
+    "chartPosition": 19
+  },
+  {
+    "artist": "Judas Priest",
+    "title": "Painkiller",
+    "genre": "metal",
+    "chartPosition": 20
+  },
+  {
+    "artist": "Metallica",
+    "title": "Seek and Destroy",
+    "genre": "metal",
+    "chartPosition": 21
+  },
+  {
+    "artist": "Black Sabbath",
+    "title": "Sabbath, Bloody Sabbath",
+    "genre": "metal",
+    "chartPosition": 22
+  },
+  {
+    "artist": "Judas Priest",
+    "title": "Hellion/Electric Eye",
+    "genre": "metal",
+    "chartPosition": 23
+  },
+  {
+    "artist": "Black Sabbath",
+    "title": "N.I.B.",
+    "genre": "metal",
+    "chartPosition": 24
+  },
+  {
+    "artist": "Metallica",
+    "title": "Creeping Death",
+    "genre": "metal",
+    "chartPosition": 25
+  },
+  {
+    "artist": "Metallica",
+    "title": "Fade to Black",
+    "genre": "metal",
+    "chartPosition": 26
+  },
+  {
+    "artist": "Megadeth",
+    "title": "Peace Sells",
+    "genre": "metal",
+    "chartPosition": 27
+  },
+  {
+    "artist": "Pantera",
+    "title": "Cemetery Gates",
+    "genre": "metal",
+    "chartPosition": 28
+  },
+  {
+    "artist": "Venom",
+    "title": "Witching Hour",
+    "genre": "metal",
+    "chartPosition": 29
+  },
+  {
+    "artist": "Dio",
+    "title": "Holy Diver",
+    "genre": "metal",
+    "chartPosition": 30
+  },
+  {
+    "artist": "Iron Maiden",
+    "title": "Phantom of the Opera",
+    "genre": "metal",
+    "chartPosition": 31
+  },
+  {
+    "artist": "Mercyful Fate",
+    "title": "The Oath",
+    "genre": "metal",
+    "chartPosition": 32
+  },
+  {
+    "artist": "Iron Maiden",
+    "title": "Rime of the Ancient Mariner",
+    "genre": "metal",
+    "chartPosition": 33
+  },
+  {
+    "artist": "Black Sabbath",
+    "title": "Symptom of the Universe",
+    "genre": "metal",
+    "chartPosition": 34
+  },
+  {
+    "artist": "Judas Priest",
+    "title": "You\u0027ve got Another Thing Coming",
+    "genre": "metal",
+    "chartPosition": 35
+  },
+  {
+    "artist": "Iron Maiden",
+    "title": "Aces High",
+    "genre": "metal",
+    "chartPosition": 36
+  },
+  {
+    "artist": "Death",
+    "title": "Pull The Plug",
+    "genre": "metal",
+    "chartPosition": 37
+  },
+  {
+    "artist": "Diamond Head",
+    "title": "Am I Evil?",
+    "genre": "metal",
+    "chartPosition": 38
+  },
+  {
+    "artist": "Metallica",
+    "title": "Enter Sandman",
+    "genre": "metal",
+    "chartPosition": 39
+  },
+  {
+    "artist": "Black Sabbath",
+    "title": "Children Of The Grave",
+    "genre": "metal",
+    "chartPosition": 40
+  },
+  {
+    "artist": "Metallica",
+    "title": "For Whom the Bell Tolls",
+    "genre": "metal",
+    "chartPosition": 41
+  },
+  {
+    "artist": "Pantera",
+    "title": "Cowboys from Hell",
+    "genre": "metal",
+    "chartPosition": 42
+  },
+  {
+    "artist": "Venom",
+    "title": "Black Metal",
+    "genre": "metal",
+    "chartPosition": 43
+  },
+  {
+    "artist": "Judas Priest",
+    "title": "Breaking the Law",
+    "genre": "metal",
+    "chartPosition": 44
+  },
+  {
+    "artist": "Slayer",
+    "title": "Seasons in the Abyss",
+    "genre": "metal",
+    "chartPosition": 45
+  },
+  {
+    "artist": "Megadeth",
+    "title": "Symphony of Destruction",
+    "genre": "metal",
+    "chartPosition": 46
+  },
+  {
+    "artist": "Helloween",
+    "title": "Halloween",
+    "genre": "metal",
+    "chartPosition": 47
+  },
+  {
+    "artist": "Accept",
+    "title": "Fast As A Shark",
+    "genre": "metal",
+    "chartPosition": 48
+  },
+  {
+    "artist": "Anthrax",
+    "title": "Caught in a Mosh",
+    "genre": "metal",
+    "chartPosition": 49
+  },
+  {
+    "artist": "Mayhem",
+    "title": "Freezing Moon",
+    "genre": "metal",
+    "chartPosition": 50
+  },
+  {
+    "artist": "Ozzy Osbourne",
+    "title": "Mr. Crowley",
+    "genre": "metal",
+    "chartPosition": 51
+  },
+  {
+    "artist": "Queensryche",
+    "title": "Queen of the Reich",
+    "genre": "metal",
+    "chartPosition": 52
+  },
+  {
+    "artist": "Pantera",
+    "title": "Walk",
+    "genre": "metal",
+    "chartPosition": 53
+  },
+  {
+    "artist": "Megadeth",
+    "title": "Hangar 18",
+    "genre": "metal",
+    "chartPosition": 54
+  },
+  {
+    "artist": "Iron Maiden",
+    "title": "2 Minutes to Midnight",
+    "genre": "metal",
+    "chartPosition": 55
+  },
+  {
+    "artist": "Slayer",
+    "title": "War Ensemble",
+    "genre": "metal",
+    "chartPosition": 56
+  },
+  {
+    "artist": "Dream Theater",
+    "title": "Metropolis Part I",
+    "genre": "metal",
+    "chartPosition": 57
+  },
+  {
+    "artist": "Black Sabbath",
+    "title": "Into the Void",
+    "genre": "metal",
+    "chartPosition": 58
+  },
+  {
+    "artist": "Accept",
+    "title": "Balls To The Wall",
+    "genre": "metal",
+    "chartPosition": 59
+  },
+  {
+    "artist": "Dio",
+    "title": "Rainbow in the Dark",
+    "genre": "metal",
+    "chartPosition": 60
+  },
+  {
+    "artist": "Metallica",
+    "title": "The Four Horsemen",
+    "genre": "metal",
+    "chartPosition": 61
+  },
+  {
+    "artist": "Death",
+    "title": "The Philosopher",
+    "genre": "metal",
+    "chartPosition": 62
+  },
+  {
+    "artist": "Iron Maiden",
+    "title": "Fear Of The Dark",
+    "genre": "metal",
+    "chartPosition": 63
+  },
+  {
+    "artist": "Dream Theater",
+    "title": "Pull Me Under",
+    "genre": "metal",
+    "chartPosition": 64
+  },
+  {
+    "artist": "Emperor",
+    "title": "I am the Black Wizards",
+    "genre": "metal",
+    "chartPosition": 65
+  },
+  {
+    "artist": "Exodus",
+    "title": "Bonded by Blood",
+    "genre": "metal",
+    "chartPosition": 66
+  },
+  {
+    "artist": "Cannibal Corpse",
+    "title": "Hammer Smashed Face",
+    "genre": "metal",
+    "chartPosition": 67
+  },
+  {
+    "artist": "Manowar",
+    "title": "Battle Hymn",
+    "genre": "metal",
+    "chartPosition": 68
+  },
+  {
+    "artist": "Ozzy Osbourne",
+    "title": "Over The Mountain",
+    "genre": "metal",
+    "chartPosition": 69
+  },
+  {
+    "artist": "Iron Maiden",
+    "title": "Powerslave",
+    "genre": "metal",
+    "chartPosition": 70
+  },
+  {
+    "artist": "Helloween",
+    "title": "Keeper of the Seven Keys",
+    "genre": "metal",
+    "chartPosition": 71
+  },
+  {
+    "artist": "Bathory",
+    "title": "A Fine Day to Die",
+    "genre": "metal",
+    "chartPosition": 72
+  },
+  {
+    "artist": "Carcass",
+    "title": "Heartwork",
+    "genre": "metal",
+    "chartPosition": 73
+  },
+  {
+    "artist": "Dio",
+    "title": "The Last In Line",
+    "genre": "metal",
+    "chartPosition": 74
+  },
+  {
+    "artist": "Slayer",
+    "title": "South Of Heaven",
+    "genre": "metal",
+    "chartPosition": 75
+  },
+  {
+    "artist": "Darkthrone",
+    "title": "Transilvanian Hunger",
+    "genre": "metal",
+    "chartPosition": 76
+  },
+  {
+    "artist": "Black Sabbath",
+    "title": "Sweet Leaf",
+    "genre": "metal",
+    "chartPosition": 77
+  },
+  {
+    "artist": "Queensryche",
+    "title": "Eyes of a Stranger",
+    "genre": "metal",
+    "chartPosition": 78
+  },
+  {
+    "artist": "Iron Maiden",
+    "title": "Killers",
+    "genre": "metal",
+    "chartPosition": 79
+  },
+  {
+    "artist": "Judas Priest",
+    "title": "Screaming For Vengeance",
+    "genre": "metal",
+    "chartPosition": 80
+  },
+  {
+    "artist": "Fates Warning",
+    "title": "Guardian",
+    "genre": "metal",
+    "chartPosition": 81
+  },
+  {
+    "artist": "Possessed",
+    "title": "The Exorcist",
+    "genre": "metal",
+    "chartPosition": 82
+  },
+  {
+    "artist": "Rainbow",
+    "title": "Kill The King",
+    "genre": "metal",
+    "chartPosition": 83
+  },
+  {
+    "artist": "Death",
+    "title": "Crystal Mountain",
+    "genre": "metal",
+    "chartPosition": 84
+  },
+  {
+    "artist": "Iron Maiden",
+    "title": "Wasted Years",
+    "genre": "metal",
+    "chartPosition": 85
+  },
+  {
+    "artist": "Overkill",
+    "title": "Elimination",
+    "genre": "metal",
+    "chartPosition": 86
+  },
+  {
+    "artist": "Opeth",
+    "title": "Blackwater Park",
+    "genre": "metal",
+    "chartPosition": 87
+  },
+  {
+    "artist": "At the Gates",
+    "title": "Blinded By Fear",
+    "genre": "metal",
+    "chartPosition": 88
+  },
+  {
+    "artist": "Symphony X",
+    "title": "Divine Wings of Tragedy",
+    "genre": "metal",
+    "chartPosition": 89
+  },
+  {
+    "artist": "Black Sabbath",
+    "title": "Neon Knights",
+    "genre": "metal",
+    "chartPosition": 90
+  },
+  {
+    "artist": "Mercyful Fate",
+    "title": "Evil",
+    "genre": "metal",
+    "chartPosition": 91
+  },
+  {
+    "artist": "Megadeth",
+    "title": "Tornado of Souls",
+    "genre": "metal",
+    "chartPosition": 92
+  },
+  {
+    "artist": "Testament",
+    "title": "Over the Wall",
+    "genre": "metal",
+    "chartPosition": 93
+  },
+  {
+    "artist": "Candlemass",
+    "title": "Solitude",
+    "genre": "metal",
+    "chartPosition": 94
+  },
+  {
+    "artist": "Blind Guardian",
+    "title": "Nightfall",
+    "genre": "metal",
+    "chartPosition": 95
+  },
+  {
+    "artist": "Burzum",
+    "title": "Jesu Død",
+    "genre": "metal",
+    "chartPosition": 96
+  },
+  {
+    "artist": "Judas Priest",
+    "title": "Exciter",
+    "genre": "metal",
+    "chartPosition": 97
+  },
+  {
+    "artist": "Morbid Angel",
+    "title": "Chapel of Ghouls",
+    "genre": "metal",
+    "chartPosition": 98
+  },
+  {
+    "artist": "Metallica",
+    "title": "Battery",
+    "genre": "metal",
+    "chartPosition": 99
+  },
+  {
+    "artist": "Black Sabbath",
+    "title": "Fairies Wear Boots",
+    "genre": "metal",
+    "chartPosition": 100
+  }
+]

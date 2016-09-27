@@ -46,7 +46,7 @@ X-Spam-Status: No, hits=-2.6 required=7.0
 	version=2.40-cvs
 X-Spam-Level: 
 
-Has anyone seen/heard of/used some package that would let a random person 
+Has anyone seen/heard of/used some package that would let a random user
 go to a webpage, create a mailing list, then administer that list.  Also 
 of course let ppl sign up for the lists and manage their subscriptions. 
 Similar to the old listbot.org, but i'd like to have it running on my 

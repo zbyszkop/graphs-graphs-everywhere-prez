@@ -1,0 +1,602 @@
+[
+  {
+    "artist": "W",
+    "title": "Memphis Blues",
+    "genre": "blues",
+    "chartPosition": 1
+  },
+  {
+    "artist": "Mamie Smith",
+    "title": "Crazy Blues",
+    "genre": "blues",
+    "chartPosition": 2
+  },
+  {
+    "artist": "Pine Top Smith",
+    "title": "Pine Top Boogie",
+    "genre": "blues",
+    "chartPosition": 3
+  },
+  {
+    "artist": "Elmore James",
+    "title": "Dust My Broom",
+    "genre": "blues",
+    "chartPosition": 4
+  },
+  {
+    "artist": "John Lee Hooker",
+    "title": "Boogie Chillun",
+    "genre": "blues",
+    "chartPosition": 5
+  },
+  {
+    "artist": "Muddy Waters",
+    "title": "Mannish Boy",
+    "genre": "blues",
+    "chartPosition": 6
+  },
+  {
+    "artist": "T",
+    "title": "Stormy Monday",
+    "genre": "blues",
+    "chartPosition": 7
+  },
+  {
+    "artist": "Robert Johnson",
+    "title": "Hellhound On My Trail",
+    "genre": "blues",
+    "chartPosition": 8
+  },
+  {
+    "artist": "Willie Dixon",
+    "title": "Spoonful",
+    "genre": "blues",
+    "chartPosition": 9
+  },
+  {
+    "artist": "B",
+    "title": "The Thrill Is Gone",
+    "genre": "blues",
+    "chartPosition": 10
+  },
+  {
+    "artist": "Sonny Boy Williamson I",
+    "title": "Good Morning Little Schoolgirl",
+    "genre": "blues",
+    "chartPosition": 11
+  },
+  {
+    "artist": "Albert King",
+    "title": "Born Under A Bad Sign",
+    "genre": "blues",
+    "chartPosition": 12
+  },
+  {
+    "artist": "Roosevelt Sykes",
+    "title": "Forty Four Blues",
+    "genre": "blues",
+    "chartPosition": 13
+  },
+  {
+    "artist": "Howlin\u0027 Wolf",
+    "title": "Smokestack Lightnin\u0027",
+    "genre": "blues",
+    "chartPosition": 14
+  },
+  {
+    "artist": "Taj Mahal",
+    "title": "Statesboro Blues",
+    "genre": "blues",
+    "chartPosition": 15
+  },
+  {
+    "artist": "Muddy Waters",
+    "title": "Hoochie Coochie Man",
+    "genre": "blues",
+    "chartPosition": 16
+  },
+  {
+    "artist": "Little Walter",
+    "title": "Juke",
+    "genre": "blues",
+    "chartPosition": 17
+  },
+  {
+    "artist": "Willie Dixon",
+    "title": "The Little Red Rooster",
+    "genre": "blues",
+    "chartPosition": 18
+  },
+  {
+    "artist": "Robert Johnson",
+    "title": "Come In My Kitchen",
+    "genre": "blues",
+    "chartPosition": 19
+  },
+  {
+    "artist": "Slim Harpo",
+    "title": "I\u0027m a King Bee",
+    "genre": "blues",
+    "chartPosition": 20
+  },
+  {
+    "artist": "Guitar Slim",
+    "title": "The Things That I Used To Do",
+    "genre": "blues",
+    "chartPosition": 21
+  },
+  {
+    "artist": "Willie Dixon",
+    "title": "Back Door Man",
+    "genre": "blues",
+    "chartPosition": 22
+  },
+  {
+    "artist": "B",
+    "title": "It\u0027s My Own Fault",
+    "genre": "blues",
+    "chartPosition": 23
+  },
+  {
+    "artist": "Freddie King",
+    "title": "I\u0027m Tore Down",
+    "genre": "blues",
+    "chartPosition": 24
+  },
+  {
+    "artist": "Bone Blues",
+    "title": "T",
+    "genre": "blues",
+    "chartPosition": 25
+  },
+  {
+    "artist": "Robert Johnson",
+    "title": "Sweet Home Chicago",
+    "genre": "blues",
+    "chartPosition": 26
+  },
+  {
+    "artist": "Son House",
+    "title": "Preaching The Blues",
+    "genre": "blues",
+    "chartPosition": 27
+  },
+  {
+    "artist": "Bessie Smith",
+    "title": "Nobody Knows You When You\u0027re Down \u0026 Out",
+    "genre": "blues",
+    "chartPosition": 28
+  },
+  {
+    "artist": "Muddy Waters",
+    "title": "I Can\u0027t Be Satisfied",
+    "genre": "blues",
+    "chartPosition": 29
+  },
+  {
+    "artist": "Elmore James",
+    "title": "Shake Your Moneymaker",
+    "genre": "blues",
+    "chartPosition": 30
+  },
+  {
+    "artist": "Blind Lemon Jefferson",
+    "title": "Matchbox Blues",
+    "genre": "blues",
+    "chartPosition": 31
+  },
+  {
+    "artist": "Freddie King",
+    "title": "Hideaway",
+    "genre": "blues",
+    "chartPosition": 32
+  },
+  {
+    "artist": "Leroy Carr \u0026 Scrapper Blackwell",
+    "title": "How Long, How Long Blues",
+    "genre": "blues",
+    "chartPosition": 33
+  },
+  {
+    "artist": "B",
+    "title": "Five Long Years",
+    "genre": "blues",
+    "chartPosition": 34
+  },
+  {
+    "artist": "Jimi Hendrix",
+    "title": "Red House",
+    "genre": "blues",
+    "chartPosition": 35
+  },
+  {
+    "artist": "Robert Johnson",
+    "title": "Cross Road Blues",
+    "genre": "blues",
+    "chartPosition": 36
+  },
+  {
+    "artist": "Magic Sam",
+    "title": "All Your Love",
+    "genre": "blues",
+    "chartPosition": 37
+  },
+  {
+    "artist": "Hound Dog Taylor",
+    "title": "Give Me Back My Wig",
+    "genre": "blues",
+    "chartPosition": 38
+  },
+  {
+    "artist": "Lowell Fulson",
+    "title": "Reconsider Baby",
+    "genre": "blues",
+    "chartPosition": 39
+  },
+  {
+    "artist": "Sleepy John Estes",
+    "title": "Worried Life Blues",
+    "genre": "blues",
+    "chartPosition": 40
+  },
+  {
+    "artist": "Albert Collins",
+    "title": "If Trouble Was Money",
+    "genre": "blues",
+    "chartPosition": 41
+  },
+  {
+    "artist": "Willie Dixon",
+    "title": "I Ain\u0027t Superstitious",
+    "genre": "blues",
+    "chartPosition": 42
+  },
+  {
+    "artist": "Robert Nighthawk",
+    "title": "Sweet Black Angel",
+    "genre": "blues",
+    "chartPosition": 43
+  },
+  {
+    "artist": "Louis Jordan",
+    "title": "I Know What You\u0027re Putting Down",
+    "genre": "blues",
+    "chartPosition": 44
+  },
+  {
+    "artist": "Blind Lemon Jefferson",
+    "title": "Black Snake Moan",
+    "genre": "blues",
+    "chartPosition": 45
+  },
+  {
+    "artist": "Big Mama Thornton",
+    "title": "Ball and Chain",
+    "genre": "blues",
+    "chartPosition": 46
+  },
+  {
+    "artist": "Bobby \u0027Blue\u0027 Bland",
+    "title": "Further On Up The Road",
+    "genre": "blues",
+    "chartPosition": 47
+  },
+  {
+    "artist": "Otis Rush",
+    "title": "I Can\u0027t Quit You Baby",
+    "genre": "blues",
+    "chartPosition": 48
+  },
+  {
+    "artist": "John Lee Hooker",
+    "title": "Boom Boom",
+    "genre": "blues",
+    "chartPosition": 49
+  },
+  {
+    "artist": "Paul Butterfield Blues Band",
+    "title": "Born In Chicago",
+    "genre": "blues",
+    "chartPosition": 50
+  },
+  {
+    "artist": "Louis Jordan",
+    "title": "Let The Good Times Roll",
+    "genre": "blues",
+    "chartPosition": 51
+  },
+  {
+    "artist": "Stevie Ray Vaughan",
+    "title": "Pride and Joy",
+    "genre": "blues",
+    "chartPosition": 52
+  },
+  {
+    "artist": "Charley Patton",
+    "title": "Pony Blues",
+    "genre": "blues",
+    "chartPosition": 53
+  },
+  {
+    "artist": "Elmore James",
+    "title": "The Sky Is Crying",
+    "genre": "blues",
+    "chartPosition": 54
+  },
+  {
+    "artist": "Robert Petway",
+    "title": "Catfish Blues",
+    "genre": "blues",
+    "chartPosition": 55
+  },
+  {
+    "artist": "Big Joe Williams",
+    "title": "Highway 49",
+    "genre": "blues",
+    "chartPosition": 56
+  },
+  {
+    "artist": "Blind Lemon Jefferson",
+    "title": "See That My Grave Is Kept Clean",
+    "genre": "blues",
+    "chartPosition": 57
+  },
+  {
+    "artist": "Leroy Carr \u0026 Scrapper Blackwell",
+    "title": "Blues Before Sunrise",
+    "genre": "blues",
+    "chartPosition": 58
+  },
+  {
+    "artist": "Big Joe Williams",
+    "title": "Baby Please Don\u0027t Go",
+    "genre": "blues",
+    "chartPosition": 59
+  },
+  {
+    "artist": "Memphis Minnie",
+    "title": "Bumble Bee",
+    "genre": "blues",
+    "chartPosition": 60
+  },
+  {
+    "artist": "Muddy Waters",
+    "title": "I\u0027m Ready",
+    "genre": "blues",
+    "chartPosition": 61
+  },
+  {
+    "artist": "Elmore James",
+    "title": "It Hurts Me Too",
+    "genre": "blues",
+    "chartPosition": 62
+  },
+  {
+    "artist": "Robert Johnson",
+    "title": "Stop Breakin\u0027 Down",
+    "genre": "blues",
+    "chartPosition": 63
+  },
+  {
+    "artist": "Stevie Ray Vaughan",
+    "title": "Texas Flood",
+    "genre": "blues",
+    "chartPosition": 64
+  },
+  {
+    "artist": "John Lee Hooker",
+    "title": "I\u0027m In The Mood",
+    "genre": "blues",
+    "chartPosition": 65
+  },
+  {
+    "artist": "Robert Johnson",
+    "title": "Me and The Devil Blues",
+    "genre": "blues",
+    "chartPosition": 66
+  },
+  {
+    "artist": "Taj Mahal",
+    "title": "The Walkin\u0027 Blues",
+    "genre": "blues",
+    "chartPosition": 67
+  },
+  {
+    "artist": "Bessie Smith",
+    "title": "\u0027Taint Nobody\u0027s Bizness If I Do",
+    "genre": "blues",
+    "chartPosition": 68
+  },
+  {
+    "artist": "Tampa Red",
+    "title": "It\u0027s Tight Like That",
+    "genre": "blues",
+    "chartPosition": 69
+  },
+  {
+    "artist": "Robert Johnson",
+    "title": "Love In Vain",
+    "genre": "blues",
+    "chartPosition": 70
+  },
+  {
+    "artist": "Willie Dixon",
+    "title": "Evil",
+    "genre": "blues",
+    "chartPosition": 71
+  },
+  {
+    "artist": "Slim Harpo",
+    "title": "Baby Scratch My Back",
+    "genre": "blues",
+    "chartPosition": 72
+  },
+  {
+    "artist": "Koko Taylor",
+    "title": "Wang Dang Doodle",
+    "genre": "blues",
+    "chartPosition": 73
+  },
+  {
+    "artist": "Canned Heat",
+    "title": "On The Road Again",
+    "genre": "blues",
+    "chartPosition": 74
+  },
+  {
+    "artist": "Arthur \u0027Big Boy\u0027 Crudup",
+    "title": "Rock Me Mama",
+    "genre": "blues",
+    "chartPosition": 75
+  },
+  {
+    "artist": "B",
+    "title": "Three O\u0027Clock Blues",
+    "genre": "blues",
+    "chartPosition": 76
+  },
+  {
+    "artist": "Lonnie Johnson",
+    "title": "Tomorrow Night",
+    "genre": "blues",
+    "chartPosition": 77
+  },
+  {
+    "artist": "Little Walter",
+    "title": "Boom Boom Out Go The Lights",
+    "genre": "blues",
+    "chartPosition": 78
+  },
+  {
+    "artist": "Willie Dixon",
+    "title": "The Same Thing",
+    "genre": "blues",
+    "chartPosition": 79
+  },
+  {
+    "artist": "Blind Blake",
+    "title": "West Coast Blues",
+    "genre": "blues",
+    "chartPosition": 80
+  },
+  {
+    "artist": "Howlin\u0027 Wolf",
+    "title": "How Many More Years",
+    "genre": "blues",
+    "chartPosition": 81
+  },
+  {
+    "artist": "Lightnin\u0027 Hopkins",
+    "title": "Cryin\u0027 Shame",
+    "genre": "blues",
+    "chartPosition": 82
+  },
+  {
+    "artist": "Elmore James",
+    "title": "Rollin \u0026 Tumblin",
+    "genre": "blues",
+    "chartPosition": 83
+  },
+  {
+    "artist": "B",
+    "title": "Everyday I Have The Blues",
+    "genre": "blues",
+    "chartPosition": 84
+  },
+  {
+    "artist": "Memphis Slim",
+    "title": "Messin Around",
+    "genre": "blues",
+    "chartPosition": 85
+  },
+  {
+    "artist": "Pee Wee Crayton",
+    "title": "Blues After Hours",
+    "genre": "blues",
+    "chartPosition": 86
+  },
+  {
+    "artist": "Sonny Boy Williamson II",
+    "title": "Eyesight To The Blind",
+    "genre": "blues",
+    "chartPosition": 87
+  },
+  {
+    "artist": "Ma Rainey",
+    "title": "CC Rider",
+    "genre": "blues",
+    "chartPosition": 88
+  },
+  {
+    "artist": "Savoy Brown",
+    "title": "I\u0027m Tired",
+    "genre": "blues",
+    "chartPosition": 89
+  },
+  {
+    "artist": "Ida Cox",
+    "title": "Graveyard Dream Blues",
+    "genre": "blues",
+    "chartPosition": 90
+  },
+  {
+    "artist": "Peg Leg Howell",
+    "title": "Beaver Slide Rag",
+    "genre": "blues",
+    "chartPosition": 91
+  },
+  {
+    "artist": "Big Bill Broonzy",
+    "title": "Key To The Highway",
+    "genre": "blues",
+    "chartPosition": 92
+  },
+  {
+    "artist": "Junior Wells",
+    "title": "Messin\u0027 With The Kid",
+    "genre": "blues",
+    "chartPosition": 93
+  },
+  {
+    "artist": "Willie Dixon",
+    "title": "The Seventh Son",
+    "genre": "blues",
+    "chartPosition": 94
+  },
+  {
+    "artist": "Gary Moore",
+    "title": "As The Years Go Passing By",
+    "genre": "blues",
+    "chartPosition": 95
+  },
+  {
+    "artist": "Little Milton",
+    "title": "We\u0027re Gonna Make It",
+    "genre": "blues",
+    "chartPosition": 96
+  },
+  {
+    "artist": "Dee",
+    "title": "Drinking Wine Spo",
+    "genre": "blues",
+    "chartPosition": 97
+  },
+  {
+    "artist": "Roy Brown",
+    "title": "Hard Luck Blues",
+    "genre": "blues",
+    "chartPosition": 98
+  },
+  {
+    "artist": "Fleetwood Mac",
+    "title": "Black Magic Woman",
+    "genre": "blues",
+    "chartPosition": 99
+  },
+  {
+    "artist": "Buddy Guy",
+    "title": "Stone Crazy",
+    "genre": "blues",
+    "chartPosition": 100
+  }
+]

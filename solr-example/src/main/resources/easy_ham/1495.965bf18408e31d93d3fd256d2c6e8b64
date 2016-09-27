@@ -60,7 +60,7 @@ On Fri, 23 Aug 2002, Fox wrote:
 
 > I recently installed Razor v2.14 and started using it.  I am finding it
 > necessary to whitelist a _lot_ of mailing lists.  Some, such as yahoogroups,
-> I can't whitelist because the from: address is the person making the post,
+> I can't whitelist because the from: address is the user making the post,
 > so I will have to whitelist on another field when I can modify my code to do
 > so.  I wonder if someone is not being careful about their submissions, or if
 > these are bad mailing lists that don't drop bad mail addresses that become

@@ -1,0 +1,602 @@
+[
+  {
+    "artist": "Nirvana",
+    "title": "Smells Like Teen Spirit",
+    "genre": "alternative rock",
+    "chartPosition": 1
+  },
+  {
+    "artist": "Joy Division",
+    "title": "Love Will Tear Us Apart",
+    "genre": "alternative rock",
+    "chartPosition": 2
+  },
+  {
+    "artist": "R",
+    "title": "Radio Free Europe",
+    "genre": "alternative rock",
+    "chartPosition": 3
+  },
+  {
+    "artist": "New Order",
+    "title": "Blue Monday",
+    "genre": "alternative rock",
+    "chartPosition": 4
+  },
+  {
+    "artist": "The Smiths",
+    "title": "How Soon is Now?",
+    "genre": "alternative rock",
+    "chartPosition": 5
+  },
+  {
+    "artist": "Talking Heads",
+    "title": "Once in a Lifetime",
+    "genre": "alternative rock",
+    "chartPosition": 6
+  },
+  {
+    "artist": "Sonic Youth",
+    "title": "Teen Age Riot",
+    "genre": "alternative rock",
+    "chartPosition": 7
+  },
+  {
+    "artist": "Violent Femmes",
+    "title": "Blister in the Sun",
+    "genre": "alternative rock",
+    "chartPosition": 8
+  },
+  {
+    "artist": "Pearl Jam",
+    "title": "Jeremy",
+    "genre": "alternative rock",
+    "chartPosition": 9
+  },
+  {
+    "artist": "Pixies",
+    "title": "Monkey Gone to Heaven",
+    "genre": "alternative rock",
+    "chartPosition": 10
+  },
+  {
+    "artist": "Red Hot Chili Peppers",
+    "title": "Under the Bridge",
+    "genre": "alternative rock",
+    "chartPosition": 11
+  },
+  {
+    "artist": "Soundgarden",
+    "title": "Black Hole Sun",
+    "genre": "alternative rock",
+    "chartPosition": 12
+  },
+  {
+    "artist": "Nine Inch Nails",
+    "title": "Closer",
+    "genre": "alternative rock",
+    "chartPosition": 13
+  },
+  {
+    "artist": "R",
+    "title": "Losing My Religion",
+    "genre": "alternative rock",
+    "chartPosition": 14
+  },
+  {
+    "artist": "Oasis",
+    "title": "Wonderwall",
+    "genre": "alternative rock",
+    "chartPosition": 15
+  },
+  {
+    "artist": "The Cure",
+    "title": "Just Like Heaven",
+    "genre": "alternative rock",
+    "chartPosition": 16
+  },
+  {
+    "artist": "The Breeders",
+    "title": "Cannonball",
+    "genre": "alternative rock",
+    "chartPosition": 17
+  },
+  {
+    "artist": "U2",
+    "title": "Sunday Bloody Sunday",
+    "genre": "alternative rock",
+    "chartPosition": 18
+  },
+  {
+    "artist": "Beck",
+    "title": "Loser",
+    "genre": "alternative rock",
+    "chartPosition": 19
+  },
+  {
+    "artist": "Radiohead",
+    "title": "Creep",
+    "genre": "alternative rock",
+    "chartPosition": 20
+  },
+  {
+    "artist": "Jeff Buckley",
+    "title": "Hallelujah",
+    "genre": "alternative rock",
+    "chartPosition": 21
+  },
+  {
+    "artist": "Bauhaus",
+    "title": "Bela Lugosi\u0027s Dead",
+    "genre": "alternative rock",
+    "chartPosition": 22
+  },
+  {
+    "artist": "Nirvana",
+    "title": "Come As You Are",
+    "genre": "alternative rock",
+    "chartPosition": 23
+  },
+  {
+    "artist": "Depeche Mode",
+    "title": "Personal Jesus",
+    "genre": "alternative rock",
+    "chartPosition": 24
+  },
+  {
+    "artist": "Fugazi",
+    "title": "Waiting Room",
+    "genre": "alternative rock",
+    "chartPosition": 25
+  },
+  {
+    "artist": "Pixies",
+    "title": "Here Comes Your Man",
+    "genre": "alternative rock",
+    "chartPosition": 26
+  },
+  {
+    "artist": "Radiohead",
+    "title": "Paranoid Android",
+    "genre": "alternative rock",
+    "chartPosition": 27
+  },
+  {
+    "artist": "The Smiths",
+    "title": "There is a Light that Never Goes Out",
+    "genre": "alternative rock",
+    "chartPosition": 28
+  },
+  {
+    "artist": "Blur",
+    "title": "Song 2",
+    "genre": "alternative rock",
+    "chartPosition": 29
+  },
+  {
+    "artist": "The Smashing Pumpkins",
+    "title": "1979",
+    "genre": "alternative rock",
+    "chartPosition": 30
+  },
+  {
+    "artist": "Pulp",
+    "title": "Common People",
+    "genre": "alternative rock",
+    "chartPosition": 31
+  },
+  {
+    "artist": "The La\u0027s",
+    "title": "There She Goes",
+    "genre": "alternative rock",
+    "chartPosition": 32
+  },
+  {
+    "artist": "R",
+    "title": "It\u0027s The End of the World As We Know It (And I Feel Fine)",
+    "genre": "alternative rock",
+    "chartPosition": 33
+  },
+  {
+    "artist": "Kate Bush",
+    "title": "Running Up That Hill (A Deal With God)",
+    "genre": "alternative rock",
+    "chartPosition": 34
+  },
+  {
+    "artist": "Echo and the Bunnymen",
+    "title": "The Killing Moon",
+    "genre": "alternative rock",
+    "chartPosition": 35
+  },
+  {
+    "artist": "U2",
+    "title": "I Still Haven\u0027t Found What I\u0027m Looking For",
+    "genre": "alternative rock",
+    "chartPosition": 36
+  },
+  {
+    "artist": "The Verve",
+    "title": "Bitter Sweet Symphony",
+    "genre": "alternative rock",
+    "chartPosition": 37
+  },
+  {
+    "artist": "Mudhoney",
+    "title": "Touch Me, I\u0027m Sick",
+    "genre": "alternative rock",
+    "chartPosition": 38
+  },
+  {
+    "artist": "Foo Fighters",
+    "title": "Everlong",
+    "genre": "alternative rock",
+    "chartPosition": 39
+  },
+  {
+    "artist": "Joy Division",
+    "title": "Atmosphere",
+    "genre": "alternative rock",
+    "chartPosition": 40
+  },
+  {
+    "artist": "Nirvana",
+    "title": "All Apologies",
+    "genre": "alternative rock",
+    "chartPosition": 41
+  },
+  {
+    "artist": "Pavement",
+    "title": "Cut Your Hair",
+    "genre": "alternative rock",
+    "chartPosition": 42
+  },
+  {
+    "artist": "Depeche Mode",
+    "title": "Enjoy the Silence",
+    "genre": "alternative rock",
+    "chartPosition": 43
+  },
+  {
+    "artist": "The Cure",
+    "title": "Lovesong",
+    "genre": "alternative rock",
+    "chartPosition": 44
+  },
+  {
+    "artist": "Alice in Chains",
+    "title": "Would?",
+    "genre": "alternative rock",
+    "chartPosition": 45
+  },
+  {
+    "artist": "Sublime",
+    "title": "What I Got",
+    "genre": "alternative rock",
+    "chartPosition": 46
+  },
+  {
+    "artist": "The Smiths",
+    "title": "This Charming Man",
+    "genre": "alternative rock",
+    "chartPosition": 47
+  },
+  {
+    "artist": "The White Stripes",
+    "title": "Seven Nation Army",
+    "genre": "alternative rock",
+    "chartPosition": 48
+  },
+  {
+    "artist": "Pearl Jam",
+    "title": "Alive",
+    "genre": "alternative rock",
+    "chartPosition": 49
+  },
+  {
+    "artist": "Soundgarden",
+    "title": "Jesus Christ Pose",
+    "genre": "alternative rock",
+    "chartPosition": 50
+  },
+  {
+    "artist": "Elvis Costello \u0026 The Attractions",
+    "title": "Radio, Radio",
+    "genre": "alternative rock",
+    "chartPosition": 51
+  },
+  {
+    "artist": "The Smashing Pumpkins",
+    "title": "Tonight, Tonight",
+    "genre": "alternative rock",
+    "chartPosition": 52
+  },
+  {
+    "artist": "Radiohead",
+    "title": "Fake Plastic Trees",
+    "genre": "alternative rock",
+    "chartPosition": 53
+  },
+  {
+    "artist": "R",
+    "title": "The One I Love",
+    "genre": "alternative rock",
+    "chartPosition": 54
+  },
+  {
+    "artist": "Weezer",
+    "title": "Buddy Holly",
+    "genre": "alternative rock",
+    "chartPosition": 55
+  },
+  {
+    "artist": "Oasis",
+    "title": "Live Forever",
+    "genre": "alternative rock",
+    "chartPosition": 56
+  },
+  {
+    "artist": "U2",
+    "title": "New Year\u0027s Day",
+    "genre": "alternative rock",
+    "chartPosition": 57
+  },
+  {
+    "artist": "Nine Inch Nails",
+    "title": "Head Like a Hole",
+    "genre": "alternative rock",
+    "chartPosition": 58
+  },
+  {
+    "artist": "Stone Temple Pilots",
+    "title": "Plush",
+    "genre": "alternative rock",
+    "chartPosition": 59
+  },
+  {
+    "artist": "The Stone Roses",
+    "title": "I Wanna Be Adored",
+    "genre": "alternative rock",
+    "chartPosition": 60
+  },
+  {
+    "artist": "The Jesus and Mary Chain",
+    "title": "Just Like Honey",
+    "genre": "alternative rock",
+    "chartPosition": 61
+  },
+  {
+    "artist": "The Replacements",
+    "title": "Bastards of Young",
+    "genre": "alternative rock",
+    "chartPosition": 62
+  },
+  {
+    "artist": "Nirvana",
+    "title": "Lithium",
+    "genre": "alternative rock",
+    "chartPosition": 63
+  },
+  {
+    "artist": "Talking Heads",
+    "title": "Burning Down the House",
+    "genre": "alternative rock",
+    "chartPosition": 64
+  },
+  {
+    "artist": "XTC",
+    "title": "Dear God",
+    "genre": "alternative rock",
+    "chartPosition": 65
+  },
+  {
+    "artist": "Beastie Boys",
+    "title": "Sabotage",
+    "genre": "alternative rock",
+    "chartPosition": 66
+  },
+  {
+    "artist": "Elvis Costello",
+    "title": "Alison",
+    "genre": "alternative rock",
+    "chartPosition": 67
+  },
+  {
+    "artist": "The Cure",
+    "title": "Boys Don\u0027t Cry",
+    "genre": "alternative rock",
+    "chartPosition": 68
+  },
+  {
+    "artist": "Midnight Oil",
+    "title": "Beds Are Burning",
+    "genre": "alternative rock",
+    "chartPosition": 69
+  },
+  {
+    "artist": "Love and Rockets",
+    "title": "So Alive",
+    "genre": "alternative rock",
+    "chartPosition": 70
+  },
+  {
+    "artist": "The Smashing Pumpkins",
+    "title": "Today",
+    "genre": "alternative rock",
+    "chartPosition": 71
+  },
+  {
+    "artist": "Dinosaur Jr",
+    "title": "Freak Scene",
+    "genre": "alternative rock",
+    "chartPosition": 72
+  },
+  {
+    "artist": "The Church",
+    "title": "Under the Milky Way",
+    "genre": "alternative rock",
+    "chartPosition": 73
+  },
+  {
+    "artist": "Joy Division",
+    "title": "She\u0027s Lost Control",
+    "genre": "alternative rock",
+    "chartPosition": 74
+  },
+  {
+    "artist": "Radiohead",
+    "title": "Karma Police",
+    "genre": "alternative rock",
+    "chartPosition": 75
+  },
+  {
+    "artist": "Red Hot Chili Peppers",
+    "title": "Give It Away",
+    "genre": "alternative rock",
+    "chartPosition": 76
+  },
+  {
+    "artist": "They Might Be Giants",
+    "title": "Birdhouse in Your Soul",
+    "genre": "alternative rock",
+    "chartPosition": 77
+  },
+  {
+    "artist": "The Jam",
+    "title": "That\u0027s Entertainment",
+    "genre": "alternative rock",
+    "chartPosition": 78
+  },
+  {
+    "artist": "Sonic Youth",
+    "title": "Kool Thing",
+    "genre": "alternative rock",
+    "chartPosition": 79
+  },
+  {
+    "artist": "Green Day",
+    "title": "When I Come Around",
+    "genre": "alternative rock",
+    "chartPosition": 80
+  },
+  {
+    "artist": "Pixies",
+    "title": "Where is My Mind?",
+    "genre": "alternative rock",
+    "chartPosition": 81
+  },
+  {
+    "artist": "Alice in Chains",
+    "title": "Man in the Box",
+    "genre": "alternative rock",
+    "chartPosition": 82
+  },
+  {
+    "artist": "U2",
+    "title": "One",
+    "genre": "alternative rock",
+    "chartPosition": 83
+  },
+  {
+    "artist": "New Order",
+    "title": "True Faith",
+    "genre": "alternative rock",
+    "chartPosition": 84
+  },
+  {
+    "artist": "Faith No More",
+    "title": "Epic",
+    "genre": "alternative rock",
+    "chartPosition": 85
+  },
+  {
+    "artist": "My Bloody Valentine",
+    "title": "Only Shallow",
+    "genre": "alternative rock",
+    "chartPosition": 86
+  },
+  {
+    "artist": "The Pogues",
+    "title": "Fairytale of New York",
+    "genre": "alternative rock",
+    "chartPosition": 87
+  },
+  {
+    "artist": "Pavement",
+    "title": "Summer Babe",
+    "genre": "alternative rock",
+    "chartPosition": 88
+  },
+  {
+    "artist": "Mission of Burma",
+    "title": "Academy Fight Song",
+    "genre": "alternative rock",
+    "chartPosition": 89
+  },
+  {
+    "artist": "Hüsker Dü",
+    "title": "Celebrated Summer",
+    "genre": "alternative rock",
+    "chartPosition": 90
+  },
+  {
+    "artist": "Primal Scream",
+    "title": "Loaded",
+    "genre": "alternative rock",
+    "chartPosition": 91
+  },
+  {
+    "artist": "Blind Melon",
+    "title": "No Rain",
+    "genre": "alternative rock",
+    "chartPosition": 92
+  },
+  {
+    "artist": "Collective Soul",
+    "title": "Shine",
+    "genre": "alternative rock",
+    "chartPosition": 93
+  },
+  {
+    "artist": "Modest Mouse",
+    "title": "Float On",
+    "genre": "alternative rock",
+    "chartPosition": 94
+  },
+  {
+    "artist": "The Replacements",
+    "title": "Left of the Dial",
+    "genre": "alternative rock",
+    "chartPosition": 95
+  },
+  {
+    "artist": "Modern English",
+    "title": "I Melt With You",
+    "genre": "alternative rock",
+    "chartPosition": 96
+  },
+  {
+    "artist": "Pearl Jam",
+    "title": "Better Man",
+    "genre": "alternative rock",
+    "chartPosition": 97
+  },
+  {
+    "artist": "Sinéad O\u0027Connor",
+    "title": "Nothing Compares 2 U",
+    "genre": "alternative rock",
+    "chartPosition": 98
+  },
+  {
+    "artist": "Rage Against the Machine",
+    "title": "Bulls on Parade",
+    "genre": "alternative rock",
+    "chartPosition": 99
+  },
+  {
+    "artist": "No Doubt",
+    "title": "Don\u0027t Speak",
+    "genre": "alternative rock",
+    "chartPosition": 100
+  }
+]

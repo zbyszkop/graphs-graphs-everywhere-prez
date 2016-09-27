@@ -30,7 +30,7 @@ How about random sampling lots of public mailing lists via gmane or
 something similar, manually cleaning it (distributing that load over a
 number of people) and then relying on your clever code and your rebalancing
 script to help further cleanse it?  The "problem" with the ham is it tends
-to be much more tied to one person (not just intimate, but unique) than the
+to be much more tied to one user (not just intimate, but unique) than the
 spam.
 
 I save all incoming email for ten days (gzipped mbox format) before it rolls

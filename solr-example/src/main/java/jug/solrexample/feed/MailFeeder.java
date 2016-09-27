@@ -4,7 +4,6 @@ package jug.solrexample.feed;
 import javaslang.collection.Stream;
 import javaslang.control.Option;
 import javaslang.control.Try;
-import org.apache.solr.client.solrj.SolrClient;
 import org.apache.solr.client.solrj.impl.CloudSolrClient;
 import org.apache.solr.common.SolrInputDocument;
 
@@ -17,15 +16,15 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class Feeder {
+public class MailFeeder {
     private String zkHost;
 
     public static void main(String[] args) throws Exception {
-        new Feeder("localhost:9983").feed() ;
+        new MailFeeder("localhost:9983").feed() ;
 
     }
 
-    public Feeder(String zkHost) {
+    public MailFeeder(String zkHost) {
         this.zkHost = zkHost;
     }
 
@@ -64,7 +63,7 @@ public class Feeder {
             .collect(Collectors.toList());
 
         return collectedEmails.stream()
-                .map(Feeder::mapToSolrDocument)
+                .map(MailFeeder::mapToSolrDocument)
                 .collect(Collectors.toList());
     }
 
@@ -88,7 +87,7 @@ public class Feeder {
 
     private static List<String> getEmails(Path emailFile, String prefix) throws IOException {
         return Arrays.stream(getLine(emailFile, prefix).split(","))
-                .map(Feeder::getEmail)
+                .map(MailFeeder::getEmail)
                 .filter(Option::isDefined)
                 .map(Option::get)
                 .collect(Collectors.toList());

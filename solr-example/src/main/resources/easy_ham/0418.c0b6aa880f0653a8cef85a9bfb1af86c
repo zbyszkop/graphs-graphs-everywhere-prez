@@ -56,7 +56,7 @@ X-Spam-Level:
 >>>>> "J" == Jim Whitehead <ejw@cse.ucsc.edu> writes:
 
     J> You open sourced the new components you developed for this
-    J> project, so the next person who comes along won't have to
+    J> project, so the next user who comes along won't have to
     J> reimplement them, right?
 
 No need: All those components already exist either in the Java

@@ -1,0 +1,596 @@
+[
+  {
+    "artist": "Afrika Bambaataa \u0026 The Soul Sonic Force",
+    "title": "Planet Rock",
+    "genre": "electro",
+    "chartPosition": 1
+  },
+  {
+    "artist": "Grandmaster Flash \u0026 The Furious Five",
+    "title": "The Message",
+    "genre": "electro",
+    "chartPosition": 2
+  },
+  {
+    "artist": "Herbie Hancock (with Grandmaster D. St.)",
+    "title": "Rockit",
+    "genre": "electro",
+    "chartPosition": 3
+  },
+  {
+    "artist": "Afrika Bambaataa \u0026 The Soul Sonic Force",
+    "title": "Looking For the Perfect Beat",
+    "genre": "electro",
+    "chartPosition": 4
+  },
+  {
+    "artist": "Grandmaster Melle Mel",
+    "title": "White Lines (Don\u0027t Do It)",
+    "genre": "electro",
+    "chartPosition": 5
+  },
+  {
+    "artist": "Cybotron feat. Juan Atkins",
+    "title": "Clear",
+    "genre": "electro",
+    "chartPosition": 7
+  },
+  {
+    "artist": "Man Parrish feat. The Freeze Force Crew",
+    "title": "Hip Hop, Be Bop (Don\u0027t Stop)",
+    "genre": "electro",
+    "chartPosition": 8
+  },
+  {
+    "artist": "Yaz (Yazoo)",
+    "title": "Situation",
+    "genre": "electro",
+    "chartPosition": 9
+  },
+  {
+    "artist": "D-Train",
+    "title": "You\u0027re the One For Me",
+    "genre": "electro",
+    "chartPosition": 10
+  },
+  {
+    "artist": "Newcleus",
+    "title": "Jam On It",
+    "genre": "electro",
+    "chartPosition": 11
+  },
+  {
+    "artist": "NYC Peech Boys",
+    "title": "Don\u0027t Make Me Wait (All Night)",
+    "genre": "electro",
+    "chartPosition": 12
+  },
+  {
+    "artist": "Hashim",
+    "title": "Al-Naafiysh (The Soul)",
+    "genre": "electro",
+    "chartPosition": 13
+  },
+  {
+    "artist": "Freeez feat. John Rocca",
+    "title": "I.O.U. (And Sometimes Y)",
+    "genre": "electro",
+    "chartPosition": 14
+  },
+  {
+    "artist": "Freestyle",
+    "title": "Don\u0027t Stop the Rock",
+    "genre": "electro",
+    "chartPosition": 15
+  },
+  {
+    "artist": "Planet Patrol",
+    "title": "Play At Your Own Risk",
+    "genre": "electro",
+    "chartPosition": 16
+  },
+  {
+    "artist": "Egyptian Lover",
+    "title": "Egypt, Egypt",
+    "genre": "electro",
+    "chartPosition": 17
+  },
+  {
+    "artist": "Twilight 22",
+    "title": "Electric Kingdom",
+    "genre": "electro",
+    "chartPosition": 18
+  },
+  {
+    "artist": "Tyrone Brunson",
+    "title": "The Smurf",
+    "genre": "electro",
+    "chartPosition": 19
+  },
+  {
+    "artist": "Time Zone",
+    "title": "Wild Style",
+    "genre": "electro",
+    "chartPosition": 20
+  },
+  {
+    "artist": "Double Dee \u0026 Steinski",
+    "title": "Play That Beat Mr. DJ (Lesson 1: The Payoff Mix)",
+    "genre": "electro",
+    "chartPosition": 21
+  },
+  {
+    "artist": "Doug E. Fresh \u0026 The Get Fresh Crew feat. Slick Rick",
+    "title": "The Show",
+    "genre": "electro",
+    "chartPosition": 22
+  },
+  {
+    "artist": "Evelyn \"Champagne\" King",
+    "title": "(You Make My) Love Come Down",
+    "genre": "electro",
+    "chartPosition": 23
+  },
+  {
+    "artist": "Newcleus",
+    "title": "Jam On Revenge (The Wikki-Wikki Song)",
+    "genre": "electro",
+    "chartPosition": 24
+  },
+  {
+    "artist": "Jonzun Crew",
+    "title": "Pack Jam (Look Out For the OVC)",
+    "genre": "electro",
+    "chartPosition": 25
+  },
+  {
+    "artist": "Quadrant Six",
+    "title": "Body Mechanic",
+    "genre": "electro",
+    "chartPosition": 26
+  },
+  {
+    "artist": "Warp 9",
+    "title": "Nunk (New Wave Funk)",
+    "genre": "electro",
+    "chartPosition": 27
+  },
+  {
+    "artist": "U.T.F.O.",
+    "title": "Roxanne Roxanne",
+    "genre": "electro",
+    "chartPosition": 28
+  },
+  {
+    "artist": "Malcolm McLaren \u0026 The World Famous Supreme Team",
+    "title": "Buffalo Gals",
+    "genre": "electro",
+    "chartPosition": 29
+  },
+  {
+    "artist": "Davy DMX",
+    "title": "One For the Treble (Fresh)",
+    "genre": "electro",
+    "chartPosition": 30
+  },
+  {
+    "artist": "Malcolm X and Keith LeBlanc",
+    "title": "No Sell Out",
+    "genre": "electro",
+    "chartPosition": 31
+  },
+  {
+    "artist": "Russell Brothers",
+    "title": "The Party Scene",
+    "genre": "electro",
+    "chartPosition": 32
+  },
+  {
+    "artist": "Rammellzee vs K-Rob",
+    "title": "Beat Bop",
+    "genre": "electro",
+    "chartPosition": 33
+  },
+  {
+    "artist": "Electric Boogie",
+    "title": "Break Dancin\u0027",
+    "genre": "electro",
+    "chartPosition": 34
+  },
+  {
+    "artist": "Run DMC",
+    "title": "It\u0027s Like That",
+    "genre": "electro",
+    "chartPosition": 35
+  },
+  {
+    "artist": "Rocker\u0027s Revenge feat. Donnie Calvin",
+    "title": "Walking on Sunshine",
+    "genre": "electro",
+    "chartPosition": 36
+  },
+  {
+    "artist": "C-Bank feat. Jenny Burton",
+    "title": "One More Shot",
+    "genre": "electro",
+    "chartPosition": 37
+  },
+  {
+    "artist": "G.L.O.B.E. \u0026 Whiz Kid",
+    "title": "Play That Beat Mr. DJ",
+    "genre": "electro",
+    "chartPosition": 38
+  },
+  {
+    "artist": "Ollie \u0026 Jerry",
+    "title": "Breakin\u0027 \u0026 There\u0027s No Stoppin\u0027 Us",
+    "genre": "electro",
+    "chartPosition": 39
+  },
+  {
+    "artist": "Whodini",
+    "title": "Freaks Come Out At Night",
+    "genre": "electro",
+    "chartPosition": 40
+  },
+  {
+    "artist": "Mantronix feat. MC Tee",
+    "title": "Fresh Is the Word",
+    "genre": "electro",
+    "chartPosition": 41
+  },
+  {
+    "artist": "Time Zone",
+    "title": "World Destruction",
+    "genre": "electro",
+    "chartPosition": 42
+  },
+  {
+    "artist": "Warp 9",
+    "title": "Light Years Away",
+    "genre": "electro",
+    "chartPosition": 43
+  },
+  {
+    "artist": "L.L. Cool J.",
+    "title": "I Can\u0027t Live Without My Radio",
+    "genre": "electro",
+    "chartPosition": 44
+  },
+  {
+    "artist": "The Real Roxanne with U.T.F.O./Roxanne\u0027s Revenge",
+    "title": "The Real Roxanne",
+    "genre": "electro",
+    "chartPosition": 45
+  },
+  {
+    "artist": "Doug E. Fresh \u0026 The Get Fresh Crew feat. Slick Rick- La Di Da Di",
+    "title": "The Show",
+    "genre": "electro",
+    "chartPosition": 46
+  },
+  {
+    "artist": "Unknown DJ",
+    "title": "808 Beats",
+    "genre": "electro",
+    "chartPosition": 47
+  },
+  {
+    "artist": "Whodini",
+    "title": "Friends",
+    "genre": "electro",
+    "chartPosition": 48
+  },
+  {
+    "artist": "Captain Rapp",
+    "title": "Bad Times (I Can\u0027t Stand it)",
+    "genre": "electro",
+    "chartPosition": 49
+  },
+  {
+    "artist": "Rock Master Scott \u0026 The Dynamic Three",
+    "title": "The Roof is on Fire",
+    "genre": "electro",
+    "chartPosition": 50
+  },
+  {
+    "artist": "Man Parrish",
+    "title": "Boogie Down Bronx",
+    "genre": "electro",
+    "chartPosition": 51
+  },
+  {
+    "artist": "T. La Rock \u0026 Jazzy Jay",
+    "title": "It\u0027s Yours",
+    "genre": "electro",
+    "chartPosition": 52
+  },
+  {
+    "artist": "Grandmaster Flash \u0026 The Furious Five",
+    "title": "Scorpio",
+    "genre": "electro",
+    "chartPosition": 53
+  },
+  {
+    "artist": "\"Pretty Tony\" Butler",
+    "title": "Fix It In the Mix",
+    "genre": "electro",
+    "chartPosition": 54
+  },
+  {
+    "artist": "Maurice Starr",
+    "title": "Electric Funky Drummer",
+    "genre": "electro",
+    "chartPosition": 55
+  },
+  {
+    "artist": "Twilight 22",
+    "title": "Siberian Nights",
+    "genre": "electro",
+    "chartPosition": 56
+  },
+  {
+    "artist": "Strafe",
+    "title": "Set It Off",
+    "genre": "electro",
+    "chartPosition": 57
+  },
+  {
+    "artist": "The Wreckin\u0027 Cru",
+    "title": "Surgery",
+    "genre": "electro",
+    "chartPosition": 58
+  },
+  {
+    "artist": "Pumpkin \u0026 The Profile Allstars",
+    "title": "King of the Beat",
+    "genre": "electro",
+    "chartPosition": 59
+  },
+  {
+    "artist": "Key-Matic",
+    "title": "Breakin\u0027 In Space",
+    "genre": "electro",
+    "chartPosition": 60
+  },
+  {
+    "artist": "Fearless 4",
+    "title": "Rockin\u0027 It",
+    "genre": "electro",
+    "chartPosition": 61
+  },
+  {
+    "artist": "Whodini",
+    "title": "Magic\u0027s Wand",
+    "genre": "electro",
+    "chartPosition": 62
+  },
+  {
+    "artist": "L.A. Dream Team",
+    "title": "Rockberry Jam",
+    "genre": "electro",
+    "chartPosition": 63
+  },
+  {
+    "artist": "Arthur Baker",
+    "title": "Breaker\u0027s Revenge",
+    "genre": "electro",
+    "chartPosition": 64
+  },
+  {
+    "artist": "Fab 5 Freddy",
+    "title": "Change the Beat",
+    "genre": "electro",
+    "chartPosition": 65
+  },
+  {
+    "artist": "The Rocksteady Crew",
+    "title": "(Hey You) The Rock Steady Crew",
+    "genre": "electro",
+    "chartPosition": 66
+  },
+  {
+    "artist": "Uncle Jam\u0027s Army",
+    "title": "Dial-A-Freak",
+    "genre": "electro",
+    "chartPosition": 67
+  },
+  {
+    "artist": "Frankie Smith",
+    "title": "Double Dutch Bus",
+    "genre": "electro",
+    "chartPosition": 68
+  },
+  {
+    "artist": "Dominatrix",
+    "title": "Dominatrix Sleeps Tonight",
+    "genre": "electro",
+    "chartPosition": 69
+  },
+  {
+    "artist": "Timex Social Club",
+    "title": "Rumors",
+    "genre": "electro",
+    "chartPosition": 70
+  },
+  {
+    "artist": "Laid Back",
+    "title": "White Horse",
+    "genre": "electro",
+    "chartPosition": 71
+  },
+  {
+    "artist": "C-Bank feat. Jenny Burton",
+    "title": "Get Wet",
+    "genre": "electro",
+    "chartPosition": 72
+  },
+  {
+    "artist": "Freeez feat. John Rocca",
+    "title": "Pop Goes My Love",
+    "genre": "electro",
+    "chartPosition": 73
+  },
+  {
+    "artist": "Art of Noise",
+    "title": "Beat Box",
+    "genre": "electro",
+    "chartPosition": 74
+  },
+  {
+    "artist": "Whistle",
+    "title": "(Nothing Serious) Just Buggin\u0027",
+    "genre": "electro",
+    "chartPosition": 75
+  },
+  {
+    "artist": "Kraftwerk",
+    "title": "Tour De France",
+    "genre": "electro",
+    "chartPosition": 76
+  },
+  {
+    "artist": "C.O.D.",
+    "title": "In the Bottle",
+    "genre": "electro",
+    "chartPosition": 77
+  },
+  {
+    "artist": "The Wreckin\u0027 Cru",
+    "title": "Juice",
+    "genre": "electro",
+    "chartPosition": 78
+  },
+  {
+    "artist": "Divine Sounds",
+    "title": "What People Do For Money",
+    "genre": "electro",
+    "chartPosition": 79
+  },
+  {
+    "artist": "The Packman",
+    "title": "I\u0027m the Packman (Eat Everything I Can)",
+    "genre": "electro",
+    "chartPosition": 80
+  },
+  {
+    "artist": "Jamie Jupitor",
+    "title": "Computer Power",
+    "genre": "electro",
+    "chartPosition": 81
+  },
+  {
+    "artist": "Captain Rock",
+    "title": "Return of Captain Rock",
+    "genre": "electro",
+    "chartPosition": 82
+  },
+  {
+    "artist": "The B-Boys",
+    "title": "2, 3 Break",
+    "genre": "electro",
+    "chartPosition": 83
+  },
+  {
+    "artist": "Chris \"The Glove\" Taylor and David Storrs with Ice T.",
+    "title": "Reckless",
+    "genre": "electro",
+    "chartPosition": 84
+  },
+  {
+    "artist": "New Order",
+    "title": "Confusion",
+    "genre": "electro",
+    "chartPosition": 85
+  },
+  {
+    "artist": "Knights of the Turntables",
+    "title": "Techno Scratch",
+    "genre": "electro",
+    "chartPosition": 86
+  },
+  {
+    "artist": "Original Concept",
+    "title": "Can You Feel It?",
+    "genre": "electro",
+    "chartPosition": 87
+  },
+  {
+    "artist": "Midnight Starr",
+    "title": "Freak-A-Zoid",
+    "genre": "electro",
+    "chartPosition": 88
+  },
+  {
+    "artist": "Mantronix",
+    "title": "Needle To the Groove",
+    "genre": "electro",
+    "chartPosition": 89
+  },
+  {
+    "artist": "Break Machine",
+    "title": "Street Dance",
+    "genre": "electro",
+    "chartPosition": 90
+  },
+  {
+    "artist": "Planet Patrol",
+    "title": "Cheap Thrills",
+    "genre": "electro",
+    "chartPosition": 91
+  },
+  {
+    "artist": "Sinnamon",
+    "title": "Thanks To You",
+    "genre": "electro",
+    "chartPosition": 92
+  },
+  {
+    "artist": "Evelyn \"Champagne\" King",
+    "title": "I\u0027m In Love",
+    "genre": "electro",
+    "chartPosition": 93
+  },
+  {
+    "artist": "S.O.S. Band",
+    "title": "Just Be Good To Me",
+    "genre": "electro",
+    "chartPosition": 94
+  },
+  {
+    "artist": "Paul Hardcastle",
+    "title": "19",
+    "genre": "electro",
+    "chartPosition": 95
+  },
+  {
+    "artist": "Harold Faltermeyer",
+    "title": "Axel F",
+    "genre": "electro",
+    "chartPosition": 96
+  },
+  {
+    "artist": "Newtrament",
+    "title": "London Bridge Is Falling Down",
+    "genre": "electro",
+    "chartPosition": 97
+  },
+  {
+    "artist": "Bobby Jimmy \u0026 The Critters",
+    "title": "Big Butt",
+    "genre": "electro",
+    "chartPosition": 98
+  },
+  {
+    "artist": "Arabian Prince",
+    "title": "Strange Life",
+    "genre": "electro",
+    "chartPosition": 99
+  },
+  {
+    "artist": "Bobby Broom",
+    "title": "Beat Freak",
+    "genre": "electro",
+    "chartPosition": 100
+  }
+]

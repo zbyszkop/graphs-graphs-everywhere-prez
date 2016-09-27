@@ -1,0 +1,602 @@
+[
+  {
+    "artist": "Grandmaster Flash \u0026 The Furious Five",
+    "title": "The Message",
+    "genre": "rap",
+    "chartPosition": 1
+  },
+  {
+    "artist": "Public Enemy",
+    "title": "Fight The Power",
+    "genre": "rap",
+    "chartPosition": 2
+  },
+  {
+    "artist": "Dr. Dre",
+    "title": "Nuthin But A \"G\" Thang",
+    "genre": "rap",
+    "chartPosition": 3
+  },
+  {
+    "artist": "Run-D.M.C.",
+    "title": "It\u0027s Like That",
+    "genre": "rap",
+    "chartPosition": 4
+  },
+  {
+    "artist": "Sugarhill Gang",
+    "title": "Rappers Delight",
+    "genre": "rap",
+    "chartPosition": 5
+  },
+  {
+    "artist": "Notorious B.I.G.",
+    "title": "Juicy",
+    "genre": "rap",
+    "chartPosition": 6
+  },
+  {
+    "artist": "Slick Rick",
+    "title": "Children\u0027s Story",
+    "genre": "rap",
+    "chartPosition": 7
+  },
+  {
+    "artist": "Common",
+    "title": "I Used To Love H.E.R.",
+    "genre": "rap",
+    "chartPosition": 8
+  },
+  {
+    "artist": "Afrika Bambaataa",
+    "title": "Planet Rock",
+    "genre": "rap",
+    "chartPosition": 9
+  },
+  {
+    "artist": "Eric B. \u0026 Rakim",
+    "title": "Paid in Full",
+    "genre": "rap",
+    "chartPosition": 10
+  },
+  {
+    "artist": "LL Cool J",
+    "title": "Rock the Bells",
+    "genre": "rap",
+    "chartPosition": 11
+  },
+  {
+    "artist": "Kanye West",
+    "title": "Jesus Walks",
+    "genre": "rap",
+    "chartPosition": 12
+  },
+  {
+    "artist": "Run-D.M.C. \u0026 Aerosmith",
+    "title": "Walk This Way",
+    "genre": "rap",
+    "chartPosition": 13
+  },
+  {
+    "artist": "Kurtis Blow",
+    "title": "The Breaks",
+    "genre": "rap",
+    "chartPosition": 14
+  },
+  {
+    "artist": "N.W.A",
+    "title": "Fuck Tha Police",
+    "genre": "rap",
+    "chartPosition": 15
+  },
+  {
+    "artist": "Outkast",
+    "title": "Rosa Parks",
+    "genre": "rap",
+    "chartPosition": 16
+  },
+  {
+    "artist": "A Tribe Called Quest",
+    "title": "Check the Rhime",
+    "genre": "rap",
+    "chartPosition": 17
+  },
+  {
+    "artist": "2 Pac",
+    "title": "Keep Ya Head Up",
+    "genre": "rap",
+    "chartPosition": 18
+  },
+  {
+    "artist": "C.L. Smooth \u0026 Pete Rock",
+    "title": "They Reminisce Over You (T.R.O.Y.)",
+    "genre": "rap",
+    "chartPosition": 19
+  },
+  {
+    "artist": "Rob Base \u0026 DJ EZ Rock",
+    "title": "It Takes Two",
+    "genre": "rap",
+    "chartPosition": 20
+  },
+  {
+    "artist": "Eminem",
+    "title": "Stan",
+    "genre": "rap",
+    "chartPosition": 21
+  },
+  {
+    "artist": "Nas",
+    "title": "One Mic",
+    "genre": "rap",
+    "chartPosition": 22
+  },
+  {
+    "artist": "De La Soul",
+    "title": "Me Myself and I",
+    "genre": "rap",
+    "chartPosition": 23
+  },
+  {
+    "artist": "Doug E. Fresh w/Slick Rick",
+    "title": "The Show",
+    "genre": "rap",
+    "chartPosition": 24
+  },
+  {
+    "artist": "Boogie Down Productions",
+    "title": "The Bridge Is Over",
+    "genre": "rap",
+    "chartPosition": 25
+  },
+  {
+    "artist": "Public Enemy",
+    "title": "Bring The Noise",
+    "genre": "rap",
+    "chartPosition": 26
+  },
+  {
+    "artist": "A Tribe Called Quest",
+    "title": "Award Tour",
+    "genre": "rap",
+    "chartPosition": 27
+  },
+  {
+    "artist": "2 Pac",
+    "title": "Shed So Many Tears",
+    "genre": "rap",
+    "chartPosition": 28
+  },
+  {
+    "artist": "Eric B. \u0026 Rakim",
+    "title": "Eric B. is President",
+    "genre": "rap",
+    "chartPosition": 29
+  },
+  {
+    "artist": "Salt-n-Pepa",
+    "title": "Push It",
+    "genre": "rap",
+    "chartPosition": 30
+  },
+  {
+    "artist": "Outkast",
+    "title": "Ms. Jackson",
+    "genre": "rap",
+    "chartPosition": 31
+  },
+  {
+    "artist": "Ice Cube",
+    "title": "It Was A Good Day",
+    "genre": "rap",
+    "chartPosition": 32
+  },
+  {
+    "artist": "DJ Jazzy Jeff \u0026 The Fresh Prince",
+    "title": "Summertime",
+    "genre": "rap",
+    "chartPosition": 33
+  },
+  {
+    "artist": "Notorious B.I.G.",
+    "title": "Big Poppa",
+    "genre": "rap",
+    "chartPosition": 34
+  },
+  {
+    "artist": "MC Lyte",
+    "title": "Cha Cha Cha",
+    "genre": "rap",
+    "chartPosition": 35
+  },
+  {
+    "artist": "Wu Tang Clan",
+    "title": "C.R.E.A.M.",
+    "genre": "rap",
+    "chartPosition": 36
+  },
+  {
+    "artist": "Jay Z",
+    "title": "Hard Knock Life",
+    "genre": "rap",
+    "chartPosition": 37
+  },
+  {
+    "artist": "Boogie Down Productions",
+    "title": "My Philosophy",
+    "genre": "rap",
+    "chartPosition": 38
+  },
+  {
+    "artist": "EPMD",
+    "title": "You Gots to Chill",
+    "genre": "rap",
+    "chartPosition": 39
+  },
+  {
+    "artist": "Geto Boys",
+    "title": "Mind Playing Tricks on Me",
+    "genre": "rap",
+    "chartPosition": 40
+  },
+  {
+    "artist": "2pac",
+    "title": "Dear Mama",
+    "genre": "rap",
+    "chartPosition": 41
+  },
+  {
+    "artist": "Method Man w/ Mary J. Blige",
+    "title": "I\u0027ll Be There for You/You\u0027re All I Need",
+    "genre": "rap",
+    "chartPosition": 42
+  },
+  {
+    "artist": "Nas",
+    "title": "The World Is Yours",
+    "genre": "rap",
+    "chartPosition": 43
+  },
+  {
+    "artist": "Big Daddy Kane",
+    "title": "Set It Off",
+    "genre": "rap",
+    "chartPosition": 44
+  },
+  {
+    "artist": "Run-D.M.C.",
+    "title": "Rock Box",
+    "genre": "rap",
+    "chartPosition": 45
+  },
+  {
+    "artist": "A Tribe Called Quest",
+    "title": "Scenario",
+    "genre": "rap",
+    "chartPosition": 46
+  },
+  {
+    "artist": "Bone Thugs N Harmony",
+    "title": "Tha Crossroads",
+    "genre": "rap",
+    "chartPosition": 47
+  },
+  {
+    "artist": "LL Cool J",
+    "title": "I Need Love",
+    "genre": "rap",
+    "chartPosition": 48
+  },
+  {
+    "artist": "Naughty By Nature",
+    "title": "O.P.P.",
+    "genre": "rap",
+    "chartPosition": 49
+  },
+  {
+    "artist": "Run-D.M.C.",
+    "title": "Sucker M.C.s",
+    "genre": "rap",
+    "chartPosition": 50
+  },
+  {
+    "artist": "LL Cool J",
+    "title": "Mama Said Knock You Out",
+    "genre": "rap",
+    "chartPosition": 51
+  },
+  {
+    "artist": "Lauryn Hill",
+    "title": "Doo Wop (That Thing)",
+    "genre": "rap",
+    "chartPosition": 52
+  },
+  {
+    "artist": "Queen Latifah",
+    "title": "U.N.I.T.Y.",
+    "genre": "rap",
+    "chartPosition": 53
+  },
+  {
+    "artist": "The Pharcyde",
+    "title": "Passin\u0027 Me By",
+    "genre": "rap",
+    "chartPosition": 54
+  },
+  {
+    "artist": "Snoop Doggy Dogg",
+    "title": "Murder Was the Case",
+    "genre": "rap",
+    "chartPosition": 55
+  },
+  {
+    "artist": "DJ Jazzy Jeff \u0026 The Fresh Prince",
+    "title": "Parents Just Don\u0027t Understand",
+    "genre": "rap",
+    "chartPosition": 56
+  },
+  {
+    "artist": "Big Daddy Kane",
+    "title": "Ain\u0027t No Half-Steppin\u0027",
+    "genre": "rap",
+    "chartPosition": 57
+  },
+  {
+    "artist": "T.I.",
+    "title": "What You Know",
+    "genre": "rap",
+    "chartPosition": 58
+  },
+  {
+    "artist": "Slick Rick \u0026 Doug E. Fresh",
+    "title": "La Di Da Di",
+    "genre": "rap",
+    "chartPosition": 59
+  },
+  {
+    "artist": "A Tribe Called Quest",
+    "title": "Bonita Applebum",
+    "genre": "rap",
+    "chartPosition": 60
+  },
+  {
+    "artist": "Mos Def \u0026 Talib Kweli (Black Star)",
+    "title": "The Definition",
+    "genre": "rap",
+    "chartPosition": 61
+  },
+  {
+    "artist": "Biz Markie",
+    "title": "Just A Friend",
+    "genre": "rap",
+    "chartPosition": 62
+  },
+  {
+    "artist": "Puff Daddy w/Lil Kim, The LOX \u0026 The Notorious B.I.G.",
+    "title": "All About the Benjamins",
+    "genre": "rap",
+    "chartPosition": 63
+  },
+  {
+    "artist": "Tone-Loc",
+    "title": "Wild Thing",
+    "genre": "rap",
+    "chartPosition": 64
+  },
+  {
+    "artist": "Missy Elliott",
+    "title": "Get Ur Freak On",
+    "genre": "rap",
+    "chartPosition": 65
+  },
+  {
+    "artist": "DMX",
+    "title": "Get At Me Dog",
+    "genre": "rap",
+    "chartPosition": 66
+  },
+  {
+    "artist": "Eminem",
+    "title": "My Name Is...",
+    "genre": "rap",
+    "chartPosition": 67
+  },
+  {
+    "artist": "Wu-Tang Clan",
+    "title": "Triumph",
+    "genre": "rap",
+    "chartPosition": 68
+  },
+  {
+    "artist": "Warren G. w/ Nate Dogg",
+    "title": "Regulate",
+    "genre": "rap",
+    "chartPosition": 69
+  },
+  {
+    "artist": "Black Sheep",
+    "title": "The Choice Is Yours",
+    "genre": "rap",
+    "chartPosition": 70
+  },
+  {
+    "artist": "Coolio",
+    "title": "Gangsta\u0027s Paradise",
+    "genre": "rap",
+    "chartPosition": 71
+  },
+  {
+    "artist": "50 Cent",
+    "title": "In Da Club",
+    "genre": "rap",
+    "chartPosition": 72
+  },
+  {
+    "artist": "Queen Latifah w/ Monie Love",
+    "title": "Ladies First",
+    "genre": "rap",
+    "chartPosition": 73
+  },
+  {
+    "artist": "Eric B. \u0026 Rakim",
+    "title": "I Ain\u0027t No Joke",
+    "genre": "rap",
+    "chartPosition": 74
+  },
+  {
+    "artist": "Digable Planets",
+    "title": "Rebirth of Slick (Cool Like Dat)",
+    "genre": "rap",
+    "chartPosition": 75
+  },
+  {
+    "artist": "LL Cool J",
+    "title": "I\u0027m Bad",
+    "genre": "rap",
+    "chartPosition": 76
+  },
+  {
+    "artist": "Audio Two",
+    "title": "Top Billin\u0027",
+    "genre": "rap",
+    "chartPosition": 77
+  },
+  {
+    "artist": "MC Lyte",
+    "title": "Lyte As A Rock",
+    "genre": "rap",
+    "chartPosition": 78
+  },
+  {
+    "artist": "Digital Underground",
+    "title": "The Humpty Dance",
+    "genre": "rap",
+    "chartPosition": 79
+  },
+  {
+    "artist": "The Luniz",
+    "title": "I Got 5 On It",
+    "genre": "rap",
+    "chartPosition": 80
+  },
+  {
+    "artist": "Outkast",
+    "title": "Elevators (Me \u0026 You)",
+    "genre": "rap",
+    "chartPosition": 81
+  },
+  {
+    "artist": "The Roots",
+    "title": "You Got Me",
+    "genre": "rap",
+    "chartPosition": 82
+  },
+  {
+    "artist": "The Beastie Boys",
+    "title": "Paul Revere",
+    "genre": "rap",
+    "chartPosition": 83
+  },
+  {
+    "artist": "Ice T",
+    "title": "Colors",
+    "genre": "rap",
+    "chartPosition": 84
+  },
+  {
+    "artist": "Schoolly D",
+    "title": "P.S.K. (What Does It Mean)",
+    "genre": "rap",
+    "chartPosition": 85
+  },
+  {
+    "artist": "Eazy E",
+    "title": "Boyz-N-The-Hood",
+    "genre": "rap",
+    "chartPosition": 86
+  },
+  {
+    "artist": "U.T.F.O.",
+    "title": "Roxanne, Roxanne",
+    "genre": "rap",
+    "chartPosition": 87
+  },
+  {
+    "artist": "Mobb Deep",
+    "title": "Shook Ones, Pt II",
+    "genre": "rap",
+    "chartPosition": 88
+  },
+  {
+    "artist": "Goodie MOB",
+    "title": "Dirty South",
+    "genre": "rap",
+    "chartPosition": 89
+  },
+  {
+    "artist": "Whodini",
+    "title": "Freaks Come Out At Night",
+    "genre": "rap",
+    "chartPosition": 90
+  },
+  {
+    "artist": "Jay Z",
+    "title": "Big Pimpin\u0027",
+    "genre": "rap",
+    "chartPosition": 91
+  },
+  {
+    "artist": "Arrested Development",
+    "title": "Tennessee",
+    "genre": "rap",
+    "chartPosition": 92
+  },
+  {
+    "artist": "Dr. Dre w/ Snoop Doggy Dogg",
+    "title": "Deep Cover",
+    "genre": "rap",
+    "chartPosition": 93
+  },
+  {
+    "artist": "The Funky Four + 1",
+    "title": "It\u0027s the Joint",
+    "genre": "rap",
+    "chartPosition": 94
+  },
+  {
+    "artist": "Lil Wayne",
+    "title": "A Milli",
+    "genre": "rap",
+    "chartPosition": 95
+  },
+  {
+    "artist": "Lil Kim",
+    "title": "Crush On You",
+    "genre": "rap",
+    "chartPosition": 96
+  },
+  {
+    "artist": "Too $hort",
+    "title": "Life Is...Too $hort",
+    "genre": "rap",
+    "chartPosition": 97
+  },
+  {
+    "artist": "Chamillionaire w/ Krayzie Bone",
+    "title": "Ridin\u0027",
+    "genre": "rap",
+    "chartPosition": 98
+  },
+  {
+    "artist": "Ice T",
+    "title": "6 In the Mornin\u0027",
+    "genre": "rap",
+    "chartPosition": 99
+  },
+  {
+    "artist": "Young MC",
+    "title": "Bust A Move",
+    "genre": "rap",
+    "chartPosition": 100
+  }
+]

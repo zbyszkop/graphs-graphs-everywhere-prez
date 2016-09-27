@@ -1,0 +1,24 @@
+top 5 recommended tracks for Roger Clarke, based on his previous likes
+
+top(n=5,
+    gatherNodes(song_likes,
+        gatherNodes(song_likes,
+            gatherNodes(song_likes, walk="roger.clarke@example.com->email",gather="title_artist", trackTraversal="true"),
+            walk="node->title_artist", gather="email", trackTraversal="true"
+            ),
+        walk="node->email", gather="title_artist", trackTraversal="true",count(*)
+        ),
+    sort="count(*) desc"
+    )
+
+
+complete graph
+
+
+    gatherNodes(song_likes,
+        gatherNodes(song_likes,
+            gatherNodes(song_likes, walk="roger.clarke@example.com->email",gather="title_artist", trackTraversal="true", scatter="branches, leaves"),
+            walk="node->title_artist", gather="email", trackTraversal="true", scatter="branches, leaves"
+            ),
+        walk="node->email", gather="title_artist", trackTraversal="true", scatter="branches, leaves", count(*)
+        )

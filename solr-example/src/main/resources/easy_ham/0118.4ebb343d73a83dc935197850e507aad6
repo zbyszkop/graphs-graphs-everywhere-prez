@@ -106,7 +106,7 @@ the target platform: I also run on ARM systems with no proper Java.
 
 
 >5.  Makes no sense for a scientific or a business project to depend on a
->person... Java, IMHO, reduces the dependence of these entities on the
+>user... Java, IMHO, reduces the dependence of these entities on the
 >individual developer as it is much easier to reverse engineer Java as it is
 >to reverse engineer C (large applications).
 

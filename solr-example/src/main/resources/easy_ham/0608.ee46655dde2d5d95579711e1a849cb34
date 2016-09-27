@@ -92,7 +92,7 @@ http://www.openp2p.com/pub/a/p2p/2001/04/27/xdegrees.html
 database that allows peers to resolve resource names. XDegrees manages these
 services for customers on its own hosts, and sells its software to
 enterprises so they can define and run their own namespaces on in-house
-servers. You can search for a particular person (whatever device the person
+servers. You can search for a particular user (whatever device the user
 is currently using), for a particular device, for a file, or even for a web
 service. The software that resolves resource names is called XRNS (the
 eXtensible Resource Name System)."
