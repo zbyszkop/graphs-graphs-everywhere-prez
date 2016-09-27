@@ -56,7 +56,7 @@ public class EventsFeeder {
                                         List<Song> songsForGenre = SongsSource.getSongsStream()
                                                 .filter(s -> s.getGenre() == genre)
                                                 .toJavaList();
-                                        int noOfSongsliked = random.nextInt(songsForGenre.size() / 10);
+                                        int noOfSongsliked = random.nextInt(songsForGenre.size() / 40);
                                         Collections.shuffle(songsForGenre);
                                         return songsForGenre.subList(0, noOfSongsliked);
                                     })

@@ -2,14 +2,14 @@
 <html>
     <head>
         <meta charset='utf-8'></meta>
-        <title>Tutorial 3: Twitter</title>
+        <title>Graph everywhere vis example</title>
         <link rel="stylesheet" type="text/css" href="css/main.css">
     </head>
 
     <body>
         <div id="query-row">
-
-                <textarea id="expr" rows="5" cols="60">
+                <textarea id="path" rows="1" cols="100">http://localhost:8983/solr/social_users_flat/stream</textarea>
+                <textarea id="expr" rows="10" cols="200">
                         gatherNodes(song_likes,
                                 gatherNodes(song_likes,
                                        gatherNodes(song_likes, walk="roger.clarke@example.com->email",gather="title_artist", trackTraversal="true", scatter="branches, leaves"),

@@ -4,11 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-	"babel": "babel --presets es2015 js/main.js -o build/main.bundle.js",
-	"babelify": "browserify -t [ babelify --presets [ es2015 ] ] js/main.js -o build/main.bundle.js",
     "start": "http-server",
 	"webpack": "webpack"
   },
-  "author": "",
+  "author": "zbyszko.papierski@gmail.com",
   "license": "ISC"
 }

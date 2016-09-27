@@ -17,8 +17,7 @@ public class UserSource {
 
     public static Stream<String> getEmailStream() {
         return Stream.ofAll(getNames())
-                .map(UserSource::generateEmail)
-                .take(NAMES_NO);
+                .map(UserSource::generateEmail);
 
     }
 
@@ -26,10 +25,10 @@ public class UserSource {
         final Random random = new Random(System.currentTimeMillis());
 
         final List<String> emails = getEmailStream().toJavaList();
-        return getEmailStream()
+        return Stream.ofAll(getNames())
                 .map(name -> {
                     String email = generateEmail(name);
-                    int noOfFriends = random.nextInt(NAMES_NO / 2);
+                    int noOfFriends = random.nextInt(NAMES_NO / 5);
                     Set<String> friends =
                             Stream.range(0, noOfFriends)
                                     .map(i -> {
@@ -45,11 +44,12 @@ public class UserSource {
     private static List<String> getNames() {
         final List<String> names = Lists.newArrayList();
         try {
-            names.addAll(IOUtils.readLines(Thread.currentThread().getContextClassLoader().getResourceAsStream(USERS_FILE), Charset.defaultCharset()));
+            names.addAll(IOUtils.readLines(Thread.currentThread().getContextClassLoader().getResourceAsStream(USERS_FILE), Charset.defaultCharset()))
+            ;
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
-        return names;
+        return names.subList(0, NAMES_NO);
     }
 
     private static String generateEmail(String name) {

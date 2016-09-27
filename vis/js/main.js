@@ -25,8 +25,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
 function requestNewGraph() {
-    let client = new SongLikesClient('http://localhost:8983/solr/social_users_flat/stream');
     let expr = document.getElementById('expr').value;
+    let path = document.getElementById('path').value;
+    let client = new SongLikesClient(path);
 
     cy.remove(cy.elements("node"));
     client.getGraphData(expr,
@@ -39,7 +40,7 @@ function requestNewGraph() {
                         data: {
                             id: node.node.indexOf("/") !== -1 ? node.node : node.collection + "/" + node.node,
                             name: node.node,
-                            color: node.field == 'email' ? 'black' : node.field == 'node' ? 'yellow' : 'red'
+                            color: strToRGB(node.field)
                         }
                     };
                 });
@@ -62,9 +63,26 @@ function requestNewGraph() {
                 nodesData.forEach(node => cy.add(node));
                 edgesData.forEach(nodeData => nodeData.forEach(edge => cy.add(edge)));
                 cy.layout({
-                    name: 'circle'
+                    name: 'breadthfirst'
                 });
 
             })
     );
+}
+
+function hashCode(str) { // java String#hashCode
+    var hash = 0;
+    for (var i = 0; i < str.length; i++) {
+        hash = str.charCodeAt(i) + ((hash << 5) - hash);
+    }
+    return hash;
+}
+
+function strToRGB(str){
+    var i = hashCode(str);
+    var c = (i & 0x00FFFFFF)
+        .toString(16)
+        .toUpperCase();
+
+    return "#" + "00000".substring(0, 6 - c.length) + c;
 }
