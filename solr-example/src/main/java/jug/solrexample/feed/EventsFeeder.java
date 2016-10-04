@@ -40,6 +40,7 @@ public class EventsFeeder {
             doc.addField("email", like._1());
             doc.addField("title", like._2().getTitle());
             doc.addField("artist", like._2().getArtist());
+            doc.addField("genre", like._2().getGenre().getName());
             doc.addField("title_artist", like._2().getTitle() + " by " + like._2().getArtist());
             return doc;
         };
@@ -49,14 +50,15 @@ public class EventsFeeder {
         final Random random = new Random();
         return UserSource.getEmailStream()
                 .flatMap(email -> {
-                            int likedGenres = random.nextInt(Genre.values().length) + 1;
+                    int length = Genre.values().length - 2;
+                    int likedGenres = random.nextInt(length > 0 ? length : 0) + 2;
                             return Stream.range(0, likedGenres)
                                     .map(i -> Genre.values()[random.nextInt(likedGenres)])
                                     .flatMap(genre -> {
                                         List<Song> songsForGenre = SongsSource.getSongsStream()
                                                 .filter(s -> s.getGenre() == genre)
                                                 .toJavaList();
-                                        int noOfSongsliked = random.nextInt(songsForGenre.size() / 40);
+                                        int noOfSongsliked = random.nextInt(songsForGenre.size() / 20);
                                         Collections.shuffle(songsForGenre);
                                         return songsForGenre.subList(0, noOfSongsliked);
                                     })

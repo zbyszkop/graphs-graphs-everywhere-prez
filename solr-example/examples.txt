@@ -1,0 +1,17 @@
+
+social_users_flat/song_likes examples
+1. Show all of x friends
+2. Show all friends of all x friends
+3. Top songs I want should listen to (absolute version + by genre - this one must start with search)
+    a) using charts (find top songs of my favorite genre)
+    b) using my friends most favorite songs
+    c) by the similar tastes (collaborative filtering)
+    d) as c) but boosting less popular songs
+4. What people x probably knows
+
+email example
+1. most common contacting people about netscape
+2. most common contacting people during given time period (date:[2002-08-01T0:00:00Z TO 2002-10-01T0:00:00Z])
+3. Is there a chance that x contacted y? if so, through whom?
+
+

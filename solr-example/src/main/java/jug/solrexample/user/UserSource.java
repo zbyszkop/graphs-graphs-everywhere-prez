@@ -28,7 +28,7 @@ public class UserSource {
         return Stream.ofAll(getNames())
                 .map(name -> {
                     String email = generateEmail(name);
-                    int noOfFriends = random.nextInt(NAMES_NO / 5);
+                    int noOfFriends = random.nextInt(NAMES_NO / 2);
                     Set<String> friends =
                             Stream.range(0, noOfFriends)
                                     .map(i -> {
