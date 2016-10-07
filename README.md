@@ -152,6 +152,6 @@ Similar to the previous one, but provides denormalized documents, i.e. instead o
 ####Song_likes
 Collection of song likes by users gathered from the same source as previous two collections
 
-[SongLikesFeeder]((/solr-example/src/main/java/jug/solrexample/feed/SongLikesFeeder.java))
+[SongLikesFeeder](/solr-example/src/main/java/jug/solrexample/feed/SongLikesFeeder.java)
 
 
