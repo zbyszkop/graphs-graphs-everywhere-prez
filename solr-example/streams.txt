@@ -57,7 +57,7 @@ top(n=5,
 
 
 from one friend to another..
- shortestPath(social_users_flat, from="susan.gardner@example.com", to="roger.clarke@example.com", edge="email=friend", maxDepth=2)
+shortestPath(social_users_flat, from="susan.gardner@example.com", to="roger.clarke@example.com", edge="email=friend", maxDepth=2)
 
 
 bin/solr -e cloud - start solr and create example
