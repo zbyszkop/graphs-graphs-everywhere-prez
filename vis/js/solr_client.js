@@ -1,4 +1,4 @@
-import restClient, { SETTINGS } from '../node_modules/es6-rest-client/dist/client.es6.js';
+import restClient, { SETTINGS } from '../node_modules/es6-rest-client/dist/client.es6';
 
 export default class StremingExprClient {
     constructor(url) {
@@ -6,7 +6,6 @@ export default class StremingExprClient {
         this.url = url;
 
     }
-
 
     getGraphData(expr, callback) {
         restClient[SETTINGS] ({
@@ -20,7 +19,4 @@ export default class StremingExprClient {
         })
 
     }
-
-
-
 }

@@ -21,14 +21,14 @@ public class UserSource {
 
     }
 
-    public static Stream<User> getUsersStream() {
+    public static Stream<User> getUsersStream(int friendRatio) {
         final Random random = new Random(System.currentTimeMillis());
 
         final List<String> emails = getEmailStream().toJavaList();
         return Stream.ofAll(getNames())
                 .map(name -> {
                     String email = generateEmail(name);
-                    int noOfFriends = random.nextInt(NAMES_NO / 2);
+                    int noOfFriends = random.nextInt(NAMES_NO / friendRatio);
                     Set<String> friends =
                             Stream.range(0, noOfFriends)
                                     .map(i -> {

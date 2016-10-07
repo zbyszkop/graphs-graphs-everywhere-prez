@@ -3,8 +3,8 @@ import SongLikesClient from "./solr_client";
 
 document.addEventListener('DOMContentLoaded', () => {
 
-        let cytoscape = require('cytoscape');
-        let cy = window.cy = cytoscape({
+        const cytoscape = require('cytoscape');
+        const cy = window.cy = cytoscape({
             container: document.getElementById('cy'),
             style: [
                 {
@@ -33,7 +33,7 @@ function requestNewGraph() {
     client.getGraphData(expr,
         (response) => response.then(
             (result) => {
-                var nodes = result['result-set'].docs.filter(node => typeof node.node != 'undefined');
+                const nodes = result['result-set'].docs.filter(node => typeof node.node != 'undefined');
 
                 var nodesData = nodes.map(node => {
                     return {
