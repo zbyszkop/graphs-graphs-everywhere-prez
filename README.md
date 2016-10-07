@@ -154,4 +154,18 @@ Collection of song likes by users gathered from the same source as previous two 
 
 [SongLikesFeeder](/solr-example/src/main/java/jug/solrexample/feed/SongLikesFeeder.java)
 
+## Vis - gatherNodes visualiser
+[Vis](/vis) is a very simple tool to visualise effects of gatherNodes nested expressions. it requires npm install for dependencies. Run
+```
+npm install
+```
+to install dependencies
+```
+npm run webpack
+```
+to transpile code so it can be run on the browser. Finally
+```
+npm star
+```
+will start the http server. Please remember that this requires Solr to allow CORS requests.
 
