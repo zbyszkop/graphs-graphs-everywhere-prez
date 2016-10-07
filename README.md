@@ -145,5 +145,13 @@ Writes  2500+ emails from SpamAssassins's easy_ham collection.
 From the list of emails (all fakes, if anybody's interested) generates random unidirectional friends network. Since it's randomized, results may vary. 
 
 [SocialUsersFeeder](/solr-example/src/main/java/jug/solrexample/feed/SocialUsersFeeder.java)
+###Social_users_flat collection Feeder
+Similar to the previous one, but provides denormalized documents, i.e. instead of friends list per document, every relation has it's own document. This was created because of the limitations of `gatherNodes` function.
+
+[SocialUsersFlatFeeder]((/solr-example/src/main/java/jug/solrexample/feed/SocialUsersFlatFeeder.java))
+####Song_likes
+Collection of song likes by users gathered from the same source as previous two collections
+
+[SongLikesFeeder]((/solr-example/src/main/java/jug/solrexample/feed/SongLikesFeeder.java))
 
 
