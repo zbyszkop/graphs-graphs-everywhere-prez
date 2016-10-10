@@ -13,7 +13,17 @@ document.addEventListener('DOMContentLoaded', () => {
                         label: 'data(name)',
                         'background-color': 'data(color)'
                     }
-                }],
+                }, {
+                    selector: 'edge',
+                    style: {
+                        'curve-style': 'bezier',
+                        'width': 3,
+                        'target-arrow-shape': 'triangle',
+                        'target-arrow-fill': 'filled'
+                    }
+                }
+
+            ],
             layout: {
                 name: 'circle'
             }
@@ -51,7 +61,8 @@ function requestNewGraph() {
                             nodeData.push({
                                     data: {
                                         source: ancestor.indexOf("/") !== -1 ? ancestor: node.collection + "/" + ancestor,
-                                        target: node.node.indexOf("/") !== -1 ? node.node : node.collection + "/" + node.node
+                                        target: node.node.indexOf("/") !== -1 ? node.node : node.collection + "/" + node.node,
+                                        directed: true
                                     }
                                 }
                             )
