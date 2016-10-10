@@ -47,10 +47,10 @@ top(n=1,
 top(n=5,
     gatherNodes(song_likes,
         gatherNodes(song_likes,
-            search(song_likes, q="email:roger.clarke@example.com", fl="title_artist", fq="genre:alternative rock", qt="/export", sort="title_artist asc"),
+            search(song_likes, q="email:roger.clarke@example.com", fl="title_artist", fq="genre:\"alternative rock\"", qt="/export", sort="title_artist asc"),
             walk="title_artist->title_artist", gather="email", trackTraversal="true"
             ),
-        walk="node->email", gather="title_artist", trackTraversal="true",count(*)
+        walk="node->email", gather="title_artist", trackTraversal="true",count(*), fq="genre:\"alternative rock\""
         ),
     sort="count(*) desc"
     )
