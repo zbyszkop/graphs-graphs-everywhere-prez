@@ -16,6 +16,7 @@
     "babel-preset-es2015": "^6.16.0",
     "babel-preset-es2015-webpack": "^6.4.3",
     "babelify": "^7.3.0",
+    "bootstrap": "^3.3.7",
     "cytoscape": "^2.7.10",
     "http-server": "^0.9.0",
     "webpack": "^1.13.2"

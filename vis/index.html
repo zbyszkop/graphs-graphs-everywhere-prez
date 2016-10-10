@@ -4,19 +4,20 @@
         <meta charset='utf-8'></meta>
         <title>Graph everywhere vis example</title>
         <link rel="stylesheet" type="text/css" href="css/main.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
     </head>
 
     <body>
         <div id="query-row">
                 <textarea id="path" rows="1" cols="100">http://localhost:8983/solr/social_users_flat/stream</textarea>
-                <textarea id="expr" rows="10" cols="200">
-                        gatherNodes(song_likes,
-                                gatherNodes(song_likes,
-                                       gatherNodes(song_likes, walk="roger.clarke@example.com->email",gather="title_artist", trackTraversal="true", scatter="branches, leaves"),
-                                walk="node->title_artist", gather="email", trackTraversal="true", scatter="branches, leaves"
-                                ),
-                           walk="node->email", gather="title_artist", trackTraversal="true", scatter="branches, leaves", count(*)
-                            )
+                <textarea id="expr" rows="10" cols="200" style="font-size: 150%">
+
+gatherNodes(social_users_flat,
+    gatherNodes(social_users_flat, walk="derrick.oliver@example.com->email",
+     gather="friend", scatter="branches, leaves",trackTraversal="true")
+,walk="node->email", gather="friend", scatter="branches, leaves", trackTraversal="true")
+
                 </textarea>
                 <button id="new-graph-button" >new graph</button>
         </div>
