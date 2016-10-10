@@ -3,7 +3,9 @@
 Handbook for Graphs, graphs everywhere presentation. 
 
 ## Useful links
+
 [Solr download](http://archive.apache.org/dist/lucene/solr/6.2.0/)
+
 [How to allow CORS in SOLR](http://marianoguerra.org/posts/enable-cors-in-apache-solr.html)
 ##Useful commands (in Solr directory)
 ####Starting Solr for the first time, usting cloud example (recommended)
